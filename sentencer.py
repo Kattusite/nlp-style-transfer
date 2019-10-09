@@ -24,7 +24,13 @@ def main():
 
         for s in sentences:
             s = s.replace("\n", " ")
-            out.write(s + "\n")
+            s += "\n"
+
+            ws = s.split()
+            # if len(ws) < 5:
+            #     continue
+
+            out.write(s)
             # out.write("\n-------------\n")
 
 
