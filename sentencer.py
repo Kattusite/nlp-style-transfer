@@ -24,7 +24,7 @@ def main():
 
         for s in sentences:
             s = s.replace("\n", " ")
-            out.write(s)
+            out.write(s + "\n")
             # out.write("\n-------------\n")
 
 
