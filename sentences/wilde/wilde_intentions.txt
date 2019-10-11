@@ -1,15 +1,11 @@
 Transcribed from the 1913 Methuen and Co edition by David Price, email ccx074@pglaf.org                                 * * * * *                                 * * * * *                 _First Published_, _at 1s.
 net_, _in 1913_                                 * * * * * _This Book was First Published_                        _1891_ _Second Edition_                                       _1894_ _First Published_ (_Third Edition_) _by Methuen        _1908_ and Co._ _Fourth Edition_                                       _1909_ _Fifth Edition_                                        _1911_                                 * * * * *                                 * * * * *                   _A DIALOGUE_.
-_Persons_: _Cyril and_               _Vivian_.
 _Scene_: _the Library of a country_                        _house in Nottinghamshire_.
 CYRIL (_coming in through the open window from the terrace_).
 My dear Vivian, don’t coop yourself up all day in the library.
 It is a perfectly lovely afternoon.
-The air is exquisite.
 There is a mist upon the woods, like the purple bloom upon a plum.
 Let us go and lie on the grass and smoke cigarettes and enjoy Nature.
-VIVIAN.
-Enjoy Nature!
 I am glad to say that I have entirely lost that faculty.
 People tell us that Art makes us love Nature more than we loved her before; that it reveals her secrets to us; and that after a careful study of Corot and Constable we see things in her that had escaped our observation.
 My own experience is that the more we study Art, the less we care for Nature.
@@ -21,15 +17,12 @@ Art is our spirited protest, our gallant attempt to teach Nature her proper plac
 As for the infinite variety of Nature, that is a pure myth.
 It is not to be found in Nature herself.
 It resides in the imagination, or fancy, or cultivated blindness of the man who looks at her.
-CYRIL.
 Well, you need not look at the landscape.
 You can lie on the grass and smoke and talk.
-VIVIAN.
 But Nature is so uncomfortable.
 Grass is hard and lumpy and damp, and full of dreadful black insects.
 Why, even Morris’s poorest workman could make you a more comfortable seat than the whole of Nature can.
 Nature pales before the furniture of ‘the street which from Oxford has borrowed its name,’ as the poet you love so much once vilely phrased it.
-I don’t complain.
 If Nature had been comfortable, mankind would never have invented architecture, and I prefer houses to the open air.
 In a house we all feel of the proper proportions.
 Everything is subordinated to us, fashioned for our use and our pleasure.
@@ -44,22 +37,13 @@ Fortunately, in England at any rate, thought is not catching.
 Our splendid physique as a people is entirely due to our national stupidity.
 I only hope we shall be able to keep this great historic bulwark of our happiness for many years to come; but I am afraid that we are beginning to be over-educated; at least everybody who is incapable of learning has taken to teaching—that is really what our enthusiasm for education has come to.
 In the meantime, you had better go back to your wearisome uncomfortable Nature, and leave me to correct my proofs.
-CYRIL.
-Writing an article!
 That is not very consistent after what you have just said.
-VIVIAN.
 Who wants to be consistent?
 The dullard and the doctrinaire, the tedious people who carry out their principles to the bitter end of action, to the _reductio ad absurdum_ of practice.
-Not I.
 Like Emerson, I write over the door of my library the word ‘Whim.’  Besides, my article is really a most salutary and valuable warning.
 If it is attended to, there may be a new Renaissance of Art.
-CYRIL.
-What is the subject?
-VIVIAN.
 I intend to call it ‘The Decay of Lying: A Protest.’ CYRIL.
-Lying!
 I should have thought that our politicians kept up that habit.
-VIVIAN.
 I assure you that they do not.
 They never rise beyond the level of misrepresentation, and actually condescend to prove, to discuss, to argue.
 How different from the temper of the true liar, with his frank, fearless statements, his superb irresponsibility, his healthy, natural disdain of proof of any kind!
@@ -73,7 +57,6 @@ Their feigned ardours and unreal rhetoric are delightful.
 They can make the worse appear the better cause, as though they were fresh from Leontine schools, and have been known to wrest from reluctant juries triumphant verdicts of acquittal for their clients, even when those clients, as often happens, were clearly and unmistakeably innocent.
 But they are briefed by the prosaic, and are not ashamed to appeal to precedent.
 In spite of their endeavours, the truth will out.
-Newspapers, even, have degenerated.
 They may now be absolutely relied upon.
 One feels it as one wades through their columns.
 It is always the unreadable that occurs.
@@ -81,34 +64,21 @@ I am afraid that there is not much to be said in favour of either the lawyer or 
 Besides, what I am pleading for is Lying in art.
 Shall I read you what I have written?
 It might do you a great deal of good.
-CYRIL.
 Certainly, if you give me a cigarette.
-Thanks.
 By the way, what magazine do you intend it for?
-VIVIAN.
-For the _Retrospective Review_.
 I think I told you that the elect had revived it.
-CYRIL.
 Whom do you mean by ‘the elect’?
-VIVIAN.
 Oh, The Tired Hedonists, of course.
 It is a club to which I belong.
 We are supposed to wear faded roses in our button-holes when we meet, and to have a sort of cult for Domitian.
 I am afraid you are not eligible.
 You are too fond of simple pleasures.
-CYRIL.
 I should be black-balled on the ground of animal spirits, I suppose?
-VIVIAN.
-Probably.
 Besides, you are a little too old.
 We don’t admit anybody who is of the usual age.
-CYRIL.
 Well, I should fancy you are all a good deal bored with each other.
-VIVIAN.
-We are.
 This is one of the objects of the club.
 Now, if you promise not to interrupt too often, I will read you my article.
-CYRIL.
 You will find me all attention.
 VIVIAN (_reading in a very clear_, _musical voice_).
 THE DECAY OF LYING: A PROTEST.—One of the chief causes that can be assigned for the curiously commonplace character of most of the literature of our age is undoubtedly the decay of Lying as an art, a science, and a social pleasure.
@@ -127,8 +97,6 @@ But in modern days while the fashion of writing poetry has become far too common
 Many a young man starts in life with a natural gift for exaggeration which, if nurtured in congenial and sympathetic surroundings, or by the imitation of the best models, might grow into something really great and wonderful.
 But, as a rule, he comes to nothing.
 He either falls into careless habits of accuracy—’ CYRIL.
-My dear fellow!
-VIVIAN.
 Please don’t interrupt in the middle of a sentence.
 ‘He either falls into careless habits of accuracy, or takes to frequenting the society of the aged and the well-informed.
 Both things are equally fatal to his imagination, as indeed they would be fatal to the imagination of anybody, and in a short time he develops a morbid and unhealthy faculty of truth-telling, begins to verify all statements made in his presence, has no hesitation in contradicting people who are much younger than himself, and often ends by writing novels which are so lifelike that no one can possibly believe in their probability.
@@ -171,14 +139,12 @@ What more can any moralist desire?
 We have no sympathy at all with the moral indignation of our time against M. Zola.
 It is simply the indignation of Tartuffe on being exposed.
 But from the standpoint of art, what can be said in favour of the author of _L’Assommoir_, _Nana_ and _Pot-Bouille_?
-Nothing.
 Mr. Ruskin once described the characters in George Eliot’s novels as being like the sweepings of a Pentonville omnibus, but M. Zola’s characters are much worse.
 They have their dreary vices, and their drearier virtues.
 The record of their lives is absolutely without interest.
 Who cares what happens to them?
 In literature we require distinction, charm, beauty and imaginative power.
 We don’t want to be harrowed and disgusted with an account of the doings of the lower orders.
-M. Daudet is better.
 He has wit, a light touch and an amusing style.
 But he has lately committed literary suicide.
 Nobody can possibly care for Delobelle with his “Il faut lutter pour l’art,” or for Valmajour with his eternal refrain about the nightingale, or for the poet in _Jack_ with his “mots cruels,” now that we have learned from _Vingt Ans de ma Vie littéraire_ that these characters were taken directly from life.
@@ -197,7 +163,6 @@ Sooner or later one comes to that dreadful universal thing called human nature.
 Indeed, as any one who has ever worked among the poor knows only too well, the brotherhood of man is no mere poet’s dream, it is a most depressing and humiliating reality; and if a writer insists upon analysing the upper classes, he might just as well write of match-girls and costermongers at once.’  However, my dear Cyril, I will not detain you any further just here.
 I quite admit that modern novels have many good points.
 All I insist on is that, as a class, they are quite unreadable.
-CYRIL.
 That is certainly a very grave qualification, but I must say that I think you are rather unfair in some of your strictures.
 I like _The Deemster_, and _The Daughter of Heth_, and _Le Disciple_, and _Mr.
 Isaacs_, and as for _Robert Elsmere_, I am quite devoted to it.
@@ -209,10 +174,6 @@ Nor could anything be less impressive than the unfortunate hero gravely heraldin
 On the other hand, it contains several clever caricatures, and a heap of delightful quotations, and Green’s philosophy very pleasantly sugars the somewhat bitter pill of the author’s fiction.
 I also cannot help expressing my surprise that you have said nothing about the two novelists whom you are always reading, Balzac and George Meredith.
 Surely they are realists, both of them?
-VIVIAN.
-Ah!
-Meredith!
-Who can define him?
 His style is chaos illumined by flashes of lightning.
 As a writer he has mastered everything except language: as a novelist he can do everything, except tell a story: as an artist he is everything except articulate.
 Somebody in Shakespeare—Touchstone, I think—talks about a man who is always breaking his shins over his own wit, and it seems to me that this might serve as the basis for a criticism of Meredith’s method.
@@ -238,10 +199,7 @@ I remember it when I laugh.
 But Balzac is no more a realist than Holbein was.
 He created life, he did not copy it.
 I admit, however, that he set far too high a value on modernity of form, and that, consequently, there is no book of his that, as an artistic masterpiece, can rank with _Salammbô_ or _Esmond_, or _The Cloister and the Hearth_, or the _Vicomte de Bragelonne_.
-CYRIL.
 Do you object to modernity of form, then?
-VIVIAN.
-Yes.
 It is a huge price to pay for a very poor result.
 Pure modernity of form is always somewhat vulgarising.
 It cannot help being so.
@@ -258,20 +216,17 @@ Charles Dickens was depressing enough in all conscience when he tried to arouse 
 Believe me, my dear Cyril, modernity of form and modernity of subject-matter are entirely and absolutely wrong.
 We have mistaken the common livery of the age for the vesture of the Muses, and spend our days in the sordid streets and hideous suburbs of our vile cities when we should be out on the hillside with Apollo.
 Certainly we are a degraded race, and have sold our birthright for a mess of facts.
-CYRIL.
 There is something in what you say, and there is no doubt that whatever amusement we may find in reading a purely model novel, we have rarely any artistic pleasure in re-reading it.
 And this is perhaps the best rough test of what is literature and what is not.
 If one cannot enjoy reading a book over and over again, there is no use reading it at all.
 But what do you say about the return to Life and Nature?
 This is the panacea that is always being recommended to us.
-VIVIAN.
 I will read you what I say on that subject.
 The passage comes later on in the article, but I may as well give it to you now:— ‘The popular cry of our time is “Let us return to Life and Nature; they will recreate Art for us, and send the red blood coursing through her veins; they will shoe her feet with swiftness and make her hand strong.” But, alas!
 we are mistaken in our amiable and well-meaning efforts.
 Nature is always behind the age.
 And as for Life, she is the solvent that breaks up Art, the enemy that lays waste her house.’ CYRIL.
 What do you mean by saying that Nature is always behind the age?
-VIVIAN.
 Well, perhaps that is rather cryptic.
 What I mean is this.
 If we take Nature to mean natural simple instinct as opposed to self-conscious culture, the work produced under this influence is always old-fashioned, antiquated, and out of date.
@@ -283,12 +238,10 @@ He found in stones the sermons he had already hidden there.
 He went moralising about the district, but his good work was produced when he returned, not to Nature but to poetry.
 Poetry gave him ‘Laodamia,’ and the fine sonnets, and the great Ode, such as it is.
 Nature gave him ‘Martha Ray’ and ‘Peter Bell,’ and the address to Mr. Wilkinson’s spade.
-CYRIL.
 I think that view might be questioned.
 I am rather inclined to believe in ‘the impulse from a vernal wood,’ though of course the artistic value of such an impulse depends entirely on the kind of temperament that receives it, so that the return to Nature would come to mean simply the advance to a great personality.
 You would agree with that, I fancy.
 However, proceed with your article.
-VIVIAN (_reading_).
 ‘Art begins with abstract decoration, with purely imaginative and pleasurable work dealing with what is unreal and non-existent.
 This is the first stage.
 Then Life becomes fascinated with this new wonder, and asks to be admitted into the charmed circle.
@@ -333,13 +286,9 @@ A cultured Mahomedan once remarked to us, “You Christians are so occupied in m
 ‘It was not always thus.
 We need not say anything about the poets, for they, with the unfortunate exception of Mr. Wordsworth, have been really faithful to their high mission, and are universally recognised as being absolutely unreliable.
 But in the works of Herodotus, who, in spite of the shallow and ungenerous attempts of modern sciolists to verify his history, may justly be called the “Father of Lies”; in the published speeches of Cicero and the biographies of Suetonius; in Tacitus at his best; in Pliny’s _Natural History_; in Hanno’s _Periplus_; in all the early chronicles; in the Lives of the Saints; in Froissart and Sir Thomas Malory; in the travels of Marco Polo; in Olaus Magnus, and Aldrovandus, and Conrad Lycosthenes, with his magnificent _Prodigiorum et Ostentorum Chronicon_; in the autobiography of Benvenuto Cellini; in the memoirs of Casanova; in Defoe’s _History of the Plague_; in Boswell’s _Life of Johnson_; in Napoleon’s despatches, and in the works of our own Carlyle, whose _French Revolution_ is one of the most fascinating historical novels ever written, facts are either kept in their proper subordinate position, or else entirely excluded on the general ground of dulness.
-Now, everything is changed.
 Facts are not merely finding a footing-place in history, but they are usurping the domain of Fancy, and have invaded the kingdom of Romance.
 Their chilling touch is over everything.
-They are vulgarising mankind.
 The crude commercialism of America, its materialising spirit, its indifference to the poetical side of things, and its lack of imagination and of high unattainable ideals, are entirely due to that country having adopted for its national hero a man who, according to his own confession, was incapable of telling a lie, and it is not too much to say that the story of George Washington and the cherry-tree has done more harm, and in a shorter space of time, than any other moral tale in the whole of literature.’ CYRIL.
-My dear boy!
-VIVIAN.
 I assure you it is the case, and the amusing part of the whole thing is that the story of the cherry-tree is an absolute myth.
 However, you must not think that I am too despondent about the artistic future either of America or of our own country.
 Listen to this:— ‘That some change will take place before this century has drawn to its close we have no doubt whatsoever.
@@ -353,9 +302,6 @@ Art, breaking from the prison-house of realism, will run to greet him, and will 
 ‘No doubt there will always be critics who, like a certain writer in the _Saturday Review_, will gravely censure the teller of fairy tales for his defective knowledge of natural history, who will measure imaginative work by their own lack of any imaginative faculty, and will hold up their ink-stained hands in horror if some honest gentleman, who has never been farther than the yew-trees of his own garden, pens a fascinating book of travels like Sir John Mandeville, or, like great Raleigh, writes a whole history of the world, without knowing anything whatsoever about the past.
 To excuse themselves they will try and shelter under the shield of him who made Prospero the magician, and gave him Caliban and Ariel as his servants, who heard the Tritons blowing their horns round the coral reefs of the Enchanted Isle, and the fairies singing to each other in a wood near Athens, who led the phantom kings in dim procession across the misty Scottish heath, and hid Hecate in a cave with the weird sisters.
 They will call upon Shakespeare—they always do—and will quote that hackneyed passage forgetting that this unfortunate aphorism about Art holding the mirror up to Nature, is deliberately said by Hamlet in order to convince the bystanders of his absolute insanity in all art-matters.’ CYRIL.
-Ahem!
-Another cigarette, please.
-VIVIAN.
 My dear fellow, whatever you may say, it is merely a dramatic utterance, and no more represents Shakespeare’s real views upon art than the speeches of Iago represent his real views upon morals.
 But let me get to the end of the passage: ‘Art finds her own perfection within, and not outside of, herself.
 She is not to be judged by any external standard of resemblance.
@@ -369,21 +315,13 @@ She can bid the almond-tree blossom in winter, and send the snow upon the ripe c
 At her word the frost lays its silver finger on the burning mouth of June, and the winged lions creep out from the hollows of the Lydian hills.
 The dryads peer from the thicket as she passes by, and the brown fauns smile strangely at her when she comes near them.
 She has hawk-faced gods that worship her, and the centaurs gallop at her side.’ CYRIL.
-I like that.
-I can see it.
-Is that the end?
-VIVIAN.
-No.
 There is one more passage, but it is purely practical.
 It simply suggests some methods by which we could revive this lost art of Lying.
-CYRIL.
 Well, before you read it to me, I should like to ask you a question.
 What do you mean by saying that life, ‘poor, probable, uninteresting human life,’ will try to reproduce the marvels of art?
 I can quite understand your objection to art being treated as a mirror.
 You think it would reduce genius to the position of a cracked looking-glass.
 But you don’t mean to say that you seriously believe that Life imitates Art, that Life in fact is the mirror, and Art the reality?
-VIVIAN.
-Certainly I do.
 Paradox though it may seem—and paradoxes are always dangerous things—it is none the less true that Life imitates art far more than Art imitates life.
 We have all seen in our own day in England how a certain curious and fascinating type of beauty, invented and emphasised by two imaginative painters, has so influenced Life that whenever one goes to a private view or to an artistic salon one sees, here the mystic eyes of Rossetti’s dream, the long ivory throat, the strange square-cut jaw, the loosened shadowy hair that he so ardently loved, there the sweet maidenhood of ‘The Golden Stair,’ the blossom-like mouth and weary loveliness of the ‘Laus Amoris,’ the passion-pale face of Andromeda, the thin hands and lithe beauty of the Vivian in ‘Merlin’s Dream.’  And it has always been so.
 A great artist invents a type, and Life tries to copy it, to reproduce it in a popular form, like an enterprising publisher.
@@ -409,7 +347,6 @@ The world has become sad because a puppet was once melancholy.
 The Nihilist, that strange martyr who has no faith, who goes to the stake without enthusiasm, and dies for what he does not believe in, is a purely literary product.
 He was invented by Tourgénieff, and completed by Dostoieffski.
 Robespierre came out of the pages of Rousseau as surely as the People’s Palace rose out of the _débris_ of a novel.
-Literature always anticipates life.
 It does not copy it, but moulds it to its purpose.
 The nineteenth century, as we know it, is largely an invention of Balzac.
 Our Luciens de Rubempré, our Rastignacs, and De Marsays made their first appearance on the stage of the _Comédie Humaine_.
@@ -461,23 +398,15 @@ Scientifically speaking, the basis of life—the energy of life, as Aristotle wo
 Life seizes on them and uses them, even if they be to her own hurt.
 Young men have committed suicide because Rolla did so, have died by their own hand because by his own hand Werther died.
 Think of what we owe to the imitation of Christ, of what we owe to the imitation of Cæsar.
-CYRIL.
 The theory is certainly a very curious one, but to make it complete you must show that Nature, no less than Life, is an imitation of Art.
 Are you prepared to prove that?
-VIVIAN.
 My dear fellow, I am prepared to prove anything.
-CYRIL.
 Nature follows the landscape painter, then, and takes her effects from him?
-VIVIAN.
-Certainly.
 Where, if not from the Impressionists, do we get those wonderful brown fogs that come creeping down our streets, blurring the gas-lamps and changing the houses into monstrous shadows?
 To whom, if not to them and their master, do we owe the lovely silver mists that brood over our river, and turn to faint forms of fading grace curved bridge and swaying barge?
 The extraordinary change that has taken place in the climate of London during the last ten years is entirely due to a particular school of Art.
-You smile.
 Consider the matter from a scientific or a metaphysical point of view, and you will find that I am right.
-For what is Nature?
 Nature is no great mother who has borne us.
-She is our creation.
 It is in our brain that she quickens to life.
 Things are because we see them, and what we see, and how we see it, depends on the Arts that have influenced us.
 To look at a thing is very different from seeing a thing.
@@ -501,14 +430,12 @@ The fact is that she is in this unfortunate position.
 Art creates an incomparable and unique effect, and, having done so, passes on to other things.
 Nature, upon the other hand, forgetting that imitation can be made the sincerest form of insult, keeps on repeating this effect until we all become absolutely wearied of it.
 Nobody of any real culture, for instance, ever talks nowadays about the beauty of a sunset.
-Sunsets are quite old-fashioned.
 They belong to the time when Turner was the last note in art.
 To admire them is a distinct sign of provincialism of temperament.
 Upon the other hand they go on.
 Yesterday evening Mrs. Arundel insisted on my going to the window, and looking at the glorious sky, as she called it.
 Of course I had to look at it.
 She is one of those absurdly pretty Philistines to whom one can deny nothing.
-And what was it?
 It was simply a very second-rate Turner, a Turner of a bad period, with all the painter’s worst faults exaggerated and over-emphasised.
 Of course, I am quite ready to admit that Life very often commits the same error.
 She produces her false Renés and her sham Vautrins, just as Nature gives us, on one day a doubtful Cuyp, and on another a more than questionable Rousseau.
@@ -521,11 +448,8 @@ I wish the Channel, especially at Hastings, did not look quite so often like a H
 That she imitates Art, I don’t think even her worst enemy would deny now.
 It is the one thing that keeps her in touch with civilised man.
 But have I proved my theory to your satisfaction?
-CYRIL.
 You have proved it to my dissatisfaction, which is better.
 But even admitting this strange imitative instinct in Life and Nature, surely you would acknowledge that Art expresses the temper of its age, the spirit of its time, the moral and social conditions that surround it, and under whose influence it is produced.
-VIVIAN.
-Certainly not!
 Art never expresses anything but itself.
 This is the principle of my new æsthetics; and it is this, more than that vital connection between form and substance, on which Mr. Pater dwells, that makes music the type of all the arts.
 Of course, nations and individuals, with that healthy natural vanity which is the secret of existence, are always under the impression that it is of them that the Muses are talking, always trying to find in the calm dignity of imaginative art some mirror of their own turbid passions, always forgetting that the singer of life is not Apollo but Marsyas.
@@ -543,12 +467,9 @@ It fell for other, for less interesting reasons.
 The sibyls and prophets of the Sistine may indeed serve to interpret for some that new birth of the emancipated spirit that we call the Renaissance; but what do the drunken boors and bawling peasants of Dutch art tell us about the great soul of Holland?
 The more abstract, the more ideal an art is, the more it reveals to us the temper of its age.
 If we wish to understand a nation by means of its art, let us look at its architecture or its music.
-CYRIL.
 I quite agree with you there.
 The spirit of an age may be best expressed in the abstract ideal arts, for the spirit itself is abstract and ideal.
 Upon the other hand, for the visible aspect of an age, for its look, as the phrase goes, we must of course go to the arts of imitation.
-VIVIAN.
-I don’t think so.
 After all, what the imitative arts really give us are merely the various styles of particular artists, or of certain schools of artists.
 Surely you don’t imagine that the people of the Middle Ages bore any resemblance at all to the figures on mediæval stained glass, or in mediæval stone and wood carving, or on mediæval metal-work, or tapestries, or illuminated MSS.
 They were probably very ordinary-looking people, with nothing grotesque, or remarkable, or fantastic in their appearance.
@@ -577,11 +498,8 @@ If you judge from the art, they certainly were so.
 But read an authority, like Aristophanes, for instance.
 You will find that the Athenian ladies laced tightly, wore high-heeled shoes, dyed their hair yellow, painted and rouged their faces, and were exactly like any silly fashionable or fallen creature of our own day.
 The fact is that we look back on the ages entirely through the medium of art, and art, very fortunately, has never once told us the truth.
-CYRIL.
 But modern portraits by English painters, what of them?
 Surely they are like the people they pretend to represent?
-VIVIAN.
-Quite so.
 They are so like them that a hundred years from now no one will believe in them.
 The only portraits in which one believes are portraits where there is very little of the sitter, and a very great deal of the artist.
 Holbein’s drawings of the men and women of his time impress us with a sense of their absolute reality.
@@ -590,10 +508,7 @@ It is style that makes us believe in a thing—nothing but style.
 Most of our modern portrait painters are doomed to absolute oblivion.
 They never paint what they see.
 They paint what the public sees, and the public never sees anything.
-CYRIL.
 Well, after that I think I should like to hear the end of your article.
-VIVIAN.
-With pleasure.
 Whether it will do any good I really cannot say.
 Ours is certainly the dullest and most prosaic century possible.
 Why, even Sleep has played us false, and has closed up the gates of ivory, and opened the gates of horn.
@@ -606,7 +521,6 @@ Ours is the only Church where the sceptic stands at the altar, and where St. Tho
 Many a worthy clergyman, who passes his life in admirable works of kindly charity, lives and dies unnoticed and unknown; but it is sufficient for some shallow uneducated passman out of either University to get up in his pulpit and express his doubts about Noah’s ark, or Balaam’s ass, or Jonah and the whale, for half of London to flock to hear him, and to sit open-mouthed in rapt admiration at his superb intellect.
 The growth of common sense in the English Church is a thing very much to be regretted.
 It is really a degrading concession to a low form of realism.
-It is silly, too.
 It springs from an entire ignorance of psychology.
 Man can believe the impossible, but man can never believe the improbable.
 However, I must read the end of my article:— ‘What we have to do, what at any rate it is our duty to do, is to revive this old art of Lying.
@@ -637,7 +551,6 @@ Champing his gilded oats, the Hippogriff will stand in our stalls, and over our 
 But before this comes to pass we must cultivate the lost art of Lying.’ CYRIL.
 Then we must entirely cultivate it at once.
 But in order to avoid making any error I want you to tell me briefly the doctrines of the new æsthetics.
-VIVIAN.
 Briefly, then, they are these.
 Art never expresses anything but itself.
 It has an independent life, just as Thought has, and develops purely on its own lines.
@@ -669,7 +582,6 @@ This is the secret of Nature’s charm, as well as the explanation of Nature’s
 The final revelation is that Lying, the telling of beautiful untrue things, is the proper aim of Art.
 But of this I think I have spoken at sufficient length.
 And now let us go out on the terrace, where ‘droops the milk-white peacock like a ghost,’ while the evening star ‘washes the dusk with silver.’  At twilight nature becomes a wonderfully suggestive effect, and is not without loveliness, though perhaps its chief use is to illustrate quotations from the poets.
-Come!
 We have talked long enough.
 IT has constantly been made a subject of reproach against artists and men of letters that they are lacking in wholeness and completeness of nature.
 As a rule this must necessarily be so.
@@ -748,10 +660,6 @@ Upon the other hand, he was not a doctrinaire.
 ‘I hold that no work of art can be tried otherwise than by laws deduced from itself: whether or not it be consistent with itself is the question.’  This is one of his excellent aphorisms.
 And in criticising painters so different as Landseer and Martin, Stothard and Etty, he shows that, to use a phrase now classical, he is trying ‘to see the object as in itself it really is.’ However, as I pointed out before, he never feels quite at his ease in his criticisms of contemporary work.
 ‘The present,’ he says, ‘is about as agreeable a confusion to me as Ariosto on the first perusal.
-.
-.
-.
-Modern things dazzle me.
 I must look at them through Time’s telescope.
 Elia complains that to him the merit of a MS. poem is uncertain; “print,” as he excellently says, “settles it.”  Fifty years’ toning does the same thing to a picture.’  He is happier when he is writing about Watteau and Lancret, about Rubens and Giorgione, about Rembrandt, Corregio, and Michael Angelo; happiest of all when he is writing about Greek things.
 What is Gothic touched him very little, but classical art and the art of the Renaissance were always dear to him.
@@ -759,7 +667,6 @@ He saw what our English school could gain from a study of Greek models, and neve
 In his judgments on the great Italian Masters, says De Quincey, ‘there seemed a tone of sincerity and of native sensibility, as in one who spoke for himself, and was not merely a copier from books.’  The highest praise that we can give to him is that he tried to revive style as a conscious tradition.
 But he saw that no amount of art lectures or art congresses, or ‘plans for advancing the fine arts,’ will ever produce this result.
 The people, he says very wisely, and in the true spirit of Toynbee Hall, must always have ‘the best models constantly before their eyes.’ As is to be expected from one who was a painter, he is often extremely technical in his art criticisms.
-Of Tintoret’s ‘St.
 George delivering the Egyptian Princess from the Dragon,’ he remarks:—     The robe of Sabra, warmly glazed with Prussian blue, is relieved from     the pale greenish background by a vermilion scarf; and the full hues     of both are beautifully echoed, as it were, in a lower key by the     purple-lake coloured stuffs and bluish iron armour of the saint,     besides an ample balance to the vivid azure drapery on the foreground     in the indigo shades of the wild wood surrounding the castle.
 And elsewhere he talks learnedly of ‘a delicate Schiavone, various as a tulip-bed, with rich broken tints,’ of ‘a glowing portrait, remarkable for _morbidezza_, by the scarce Moroni,’ and of another picture being ‘pulpy in the carnations.’ But, as a rule, he deals with his impressions of the work as an artistic whole, and tries to translate those impressions into words, to give, as it were, the literary equivalent for the imaginative and mental effect.
 He was one of the first to develop what has been called the art-literature of the nineteenth century, that form of literature which has found in Mr. Ruskin and Mr. Browning, its two most perfect exponents.
@@ -767,7 +674,6 @@ His description of Lancret’s _Repas Italien_, in which ‘a dark-haired girl, 
 Here is his account of ‘The Crucifixion,’ by Rembrandt.
 It is extremely characteristic of his style—     Darkness—sooty, portentous darkness—shrouds the whole scene: only     above the accursed wood, as if through a horrid rift in the murky     ceiling, a rainy deluge—‘sleety-flaw, discoloured water’—streams down     amain, spreading a grisly spectral light, even more horrible than     that palpable night.
 Already the Earth pants thick and fast!
-the     darkened Cross trembles!
 the winds are dropt—the air is stagnant—a     muttering rumble growls underneath their feet, and some of that     miserable crowd begin to fly down the hill.
 The horses snuff the     coming terror, and become unmanageable through fear.
 The moment     rapidly approaches when, nearly torn asunder by His own weight,     fainting with loss of blood, which now runs in narrower rivulets from     His slit veins, His temples and breast drowned in sweat, and His     black tongue parched with the fiery death-fever, Jesus cries, ‘I     thirst.’  The deadly vinegar is elevated to Him.
@@ -876,8 +782,6 @@ It was the month of June, and he was staying at one of the hotels in Covent Gard
 His sitting-room was on the ground floor, and he prudently kept the blinds down for fear of being seen.
 Thirteen years before, when he was making his fine collection of majolica and Marc Antonios, he had forged the names of his trustees to a power of attorney, which enabled him to get possession of some of the money which he had inherited from his mother, and had brought into marriage settlement.
 He knew that this forgery had been discovered, and that by returning to England he was imperilling his life.
-Yet he returned.
-Should one wonder?
 It was said that the woman was very beautiful.
 Besides, she did not love him.
 It was by a mere accident that he was discovered.
@@ -907,7 +811,6 @@ That is the only difference, sir, between my visitor and me.
 But, sir, I will tell you one thing in which I have succeeded to the last.
 I have been determined through life to hold the position of a gentleman.
 I have always done so.
-I do so still.
 It is the custom of this place that each of the inmates of a cell shall take his morning’s turn of sweeping it out.
 I occupy a cell with a bricklayer and a sweep, but they never offer me the broom!’  When a friend reproached him with the murder of Helen Abercrombie he shrugged his shoulders and said, ‘Yes; it was a dreadful thing to do, but she had very thick ankles.’ From Newgate he was brought to the hulks at Portsmouth, and sent from there in the _Susan_ to Van Diemen’s Land along with three hundred other convicts.
 The voyage seems to have been most distasteful to him, and in a letter written to a friend he spoke bitterly about the ignominy of ‘the companion of poets and artists’ being compelled to associate with ‘country bumpkins.’  The phrase that he applies to his companions need not surprise us.
@@ -952,22 +855,12 @@ And so it may be some day with Charles Lamb’s friend.
 At present I feel that he is just a little too modern to be treated in that fine spirit of disinterested curiosity to which we owe so many charming studies of the great criminals of the Italian Renaissance from the pens of Mr. John Addington Symonds, Miss A. Mary F. Robinson, Miss Vernon Lee, and other distinguished writers.
 However, Art has not forgotten him.
 He is the hero of Dickens’s _Hunted Down_, the Varney of Bulwer’s _Lucretia_; and it is gratifying to note that fiction has paid some homage to one who was so powerful with ‘pen, pencil and poison.’  To be suggestive for fiction is to be of more importance than a fact.
-_and Ernest_.
 _Scene_: _the library of a house in_                _Piccadilly_, _overlooking the Green Park_.
-GILBERT (_at the Piano_).
 My dear Ernest, what are you laughing at?
-ERNEST (_looking up_).
 At a capital story that I have just come across in this volume of Reminiscences that I have found on your table.
-GILBERT.
-What is the book?
-Ah!
-I see.
 I have not read it yet.
-Is it good?
-ERNEST.
 Well, while you have been playing, I have been turning over the pages with some amusement, though, as a rule, I dislike modern memoirs.
 They are generally written by people who have either entirely lost their memories, or have never done anything worth remembering; which, however, is, no doubt, the true explanation of their popularity, as the English public always feels perfectly at its ease when a mediocrity is talking to it.
-GILBERT.
 Yes: the public is wonderfully tolerant.
 It forgives everything except genius.
 But I must confess that I like all memoirs.
@@ -981,30 +874,21 @@ He may be a sceptic like the gentle Sieur de Montaigne, or a saint like the bitt
 The mode of thought that Cardinal Newman represented—if that can be called a mode of thought which seeks to solve intellectual problems by a denial of the supremacy of the intellect—may not, cannot, I think, survive.
 But the world will never weary of watching that troubled soul in its progress from darkness to darkness.
 The lonely church at Littlemore, where ‘the breath of the morning is damp, and worshippers are few,’ will always be dear to it, and whenever men see the yellow snapdragon blossoming on the wall of Trinity they will think of that gracious undergraduate who saw in the flower’s sure recurrence a prophecy that he would abide for ever with the Benign Mother of his days—a prophecy that Faith, in her wisdom or her folly, suffered not to be fulfilled.
-Yes; autobiography is irresistible.
 Poor, silly, conceited Mr. Secretary Pepys has chattered his way into the circle of the Immortals, and, conscious that indiscretion is the better part of valour, bustles about among them in that ‘shaggy purple gown with gold buttons and looped lace’ which he is so fond of describing to us, perfectly at his ease, and prattling, to his own and our infinite pleasure, of the Indian blue petticoat that he bought for his wife, of the ‘good hog’s hars-let,’ and the ‘pleasant French fricassee of veal’ that he loved to eat, of his game of bowls with Will Joyce, and his ‘gadding after beauties,’ and his reciting of _Hamlet_ on a Sunday, and his playing of the viol on week days, and other wicked or trivial things.
 Even in actual life egotism is not without its attractions.
 When people talk to us about others they are usually dull.
 When they talk to us about themselves they are nearly always interesting, and if one could shut them up, when they become wearisome, as easily as one can shut up a book of which one has grown wearied, they would be perfect absolutely.
-ERNEST.
 There is much virtue in that If, as Touchstone would say.
 But do you seriously propose that every man should become his own Boswell?
 What would become of our industrious compilers of Lives and Recollections in that case?
-GILBERT.
 What has become of them?
 They are the pest of the age, nothing more and nothing less.
 Every great man nowadays has his disciples, and it is always Judas who writes the biography.
-ERNEST.
-My dear fellow!
-GILBERT.
 I am afraid it is true.
 Formerly we used to canonise our heroes.
 The modern method is to vulgarise them.
 Cheap editions of great books may be delightful, but cheap editions of great men are absolutely detestable.
-ERNEST.
 May I ask, Gilbert, to whom you allude?
-GILBERT.
-Oh!
 to all our second-rate _littérateurs_.
 We are overrun by a set of people who, when poet or painter passes away, arrive at the house along with the undertaker, and forget that their one duty is to behave as mutes.
 But we won’t talk about them.
@@ -1013,7 +897,6 @@ The dust is given to one, and the ashes to another, and the soul is out of their
 And now, let me play Chopin to you, or Dvorák?
 Shall I play you a fantasy by Dvorák?
 He writes passionate, curiously-coloured things.
-ERNEST.
 No; I don’t want music just at present.
 It is far too indefinite.
 Besides, I took the Baroness Bernstein down to dinner last night, and, though absolutely charming in every other respect, she insisted on discussing music as if it were actually written in the German language.
@@ -1025,30 +908,20 @@ Talk to me till the white-horned day comes into the room.
 There is something in your voice that is wonderful.
 GILBERT (_rising from the piano_).
 I am not in a mood for talking to-night.
-I really am not.
 How horrid of you to smile!
-Where are the cigarettes?
-Thanks.
 How exquisite these single daffodils are!
 They seem to be made of amber and cool ivory.
 They are like Greek things of the best period.
 What was the story in the confessions of the remorseful Academician that made you laugh?
-Tell it to me.
 After playing Chopin, I feel as if I had been weeping over sins that I had never committed, and mourning over tragedies that were not my own.
 Music always seems to me to produce that effect.
 It creates for one a past of which one has been ignorant, and fills one with a sense of sorrows that have been hidden from one’s tears.
 I can fancy a man who had led a perfectly commonplace life, hearing by chance some curious piece of music, and suddenly discovering that his soul, without his being conscious of it, had passed through terrible experiences, and known fearful joys, or wild romantic loves, or great renunciations.
 And so tell me this story, Ernest.
 I want to be amused.
-ERNEST.
-Oh!
 I don’t know that it is of any importance.
 But I thought it a really admirable illustration of the true value of ordinary art-criticism.
 It seems that a lady once gravely asked the remorseful Academician, as you call him, if his celebrated picture of ‘A Spring-Day at Whiteley’s,’ or, ‘Waiting for the Last Omnibus,’ or some subject of that kind, was all painted by hand?
-GILBERT.
-And was it?
-ERNEST.
-You are quite incorrigible.
 But, seriously speaking, what is the use of art-criticism?
 Why cannot the artist be left alone, to create a new world if he wishes it, or, if not, to shadow forth the world which we already know, and of which, I fancy, we would each one of us be wearied if Art, with her fine spirit of choice and delicate instinct of selection, did not, as it were, purify it for us, and give to it a momentary perfection.
 It seems to me that the imagination spreads, or should spread, a solitude around it, and works best in silence and in isolation.
@@ -1056,16 +929,8 @@ Why should the artist be troubled by the shrill clamour of criticism?
 Why should those who cannot create take upon themselves to estimate the value of creative work?
 What can they know about it?
 If a man’s work is easy to understand, an explanation is unnecessary.
-.
-.
-.
-GILBERT.
 And if his work is incomprehensible, an explanation is wicked.
-ERNEST.
 I did not say that.
-GILBERT.
-Ah!
-but you should have.
 Nowadays, we have so few mysteries left to us that we cannot afford to part with one of them.
 The members of the Browning Society, like the theologians of the Broad Church Party, or the authors of Mr. Walter Scott’s Great Writers Series, seem to me to spend their time in trying to explain their divinity away.
 Where one had hoped that Browning was a mystic they have sought to show that he was simply inarticulate.
@@ -1075,7 +940,6 @@ Taken as a whole the man was great.
 He did not belong to the Olympians, and had all the incompleteness of the Titan.
 He did not survey, and it was but rarely that he could sing.
 His work is marred by struggle, violence and effort, and he passed not from emotion to form, but from thought to chaos.
-Still, he was great.
 He has been called a thinker, and was certainly a man who was always thinking, and always thinking aloud; but it was not thought that fascinated him, but rather the processes by which thought moves.
 It was the machine he loved, not what the machine makes.
 The method by which the fool arrives at his folly was as dear to him as the ultimate wisdom of the wise.
@@ -1092,9 +956,7 @@ There, stands dread Saul with the lordly male-sapphires gleaming in his turban.
 Mildred Tresham is there, and the Spanish monk, yellow with hatred, and Blougram, and Ben Ezra, and the Bishop of St. Praxed’s.
 The spawn of Setebos gibbers in the corner, and Sebald, hearing Pippa pass by, looks on Ottima’s haggard face, and loathes her and his own sin, and himself.
 Pale as the white satin of his doublet, the melancholy king watches with dreamy treacherous eyes too loyal Strafford pass forth to his doom, and Andrea shudders as he hears the cousins whistle in the garden, and bids his perfect wife go down.
-Yes, Browning was great.
 And as what will he be remembered?
-As a poet?
 Ah, not as a poet!
 He will be remembered as a writer of fiction, as the most supreme writer of fiction, it may be, that we have ever had.
 His sense of dramatic situation was unrivalled, and, if he could not answer his own problems, he could at least put problems forth, and what more should an artist do?
@@ -1103,22 +965,15 @@ Had he been articulate, he might have sat beside him.
 The only man who can touch the hem of his garment is George Meredith.
 Meredith is a prose Browning, and so is Browning.
 He used poetry as a medium for writing in prose.
-ERNEST.
 There is something in what you say, but there is not everything in what you say.
 In many points you are unjust.
-GILBERT.
 It is difficult not to be unjust to what one loves.
 But let us return to the particular point at issue.
 What was it that you said?
-ERNEST.
 Simply this: that in the best days of art there were no art-critics.
-GILBERT.
 I seem to have heard that observation before, Ernest.
 It has all the vitality of error and all the tediousness of an old friend.
-ERNEST.
-It is true.
 Yes: there is no use your tossing your head in that petulant manner.
-It is quite true.
 In the best days of art there were no art-critics.
 The sculptor hewed from the marble block the great white-limbed Hermes that slept within it.
 The waxers and gilders of images gave tone and texture to the statue, and the world, when it saw it, worshipped and was dumb.
@@ -1157,22 +1012,16 @@ By the Ilyssus, my dear Gilbert, there were no silly art congresses bringing pro
 By the Ilyssus there were no tedious magazines about art, in which the industrious prattle of what they do not understand.
 On the reed-grown banks of that little stream strutted no ridiculous journalism monopolising the seat of judgment when it should be apologising in the dock.
 The Greeks had no art-critics.
-GILBERT.
 Ernest, you are quite delightful, but your views are terribly unsound.
 I am afraid that you have been listening to the conversation of some one older than yourself.
 That is always a dangerous thing to do, and if you allow it to degenerate into a habit you will find it absolutely fatal to any intellectual development.
 As for modern journalism, it is not my business to defend it.
 It justifies its own existence by the great Darwinian principle of the survival of the vulgarest.
 I have merely to do with literature.
-ERNEST.
 But what is the difference between literature and journalism?
-GILBERT.
-Oh!
 journalism is unreadable, and literature is not read.
-That is all.
 But with regard to your statement that the Greeks had no art-critics, I assure you that is quite absurd.
 It would be more just to say that the Greeks were a nation of art-critics.
-GILBERT.
 Yes, a nation of art-critics.
 But I don’t wish to destroy the delightfully unreal picture that you have drawn of the relation of the Hellenic artist to the intellectual spirit of his age.
 To give an accurate description of what has never occurred is not merely the proper occupation of the historian, but the inalienable privilege of any man of parts and culture.
@@ -1191,19 +1040,13 @@ The sky is a hard hollow sapphire.
 Let us go out into the night.
 Thought is wonderful, but adventure is more wonderful still.
 Who knows but we may meet Prince Florizel of Bohemia, and hear the fair Cuban tell us that she is not what she seems?
-ERNEST.
-You are horribly wilful.
 I insist on your discussing this matter with me.
 You have said that the Greeks were a nation of art-critics.
 What art-criticism have they left us?
-GILBERT.
 My dear Ernest, even if not a single fragment of art-criticism had come down to us from Hellenic or Hellenistic days, it would be none the less true that the Greeks were a nation of art-critics, and that they invented the criticism of art just as they invented the criticism of everything else.
 For, after all, what is our primary debt to the Greeks?
-Simply the critical spirit.
 And, this spirit, which they exercised on questions of religion and science, of ethics and metaphysics, of politics and education, they exercised on questions of art also, and, indeed, of the two supreme and highest arts, they have left us the most flawless system of criticism that the world has ever seen.
-ERNEST.
 But what are the two supreme and highest arts?
-GILBERT.
 Life and Literature, life and the perfect expression of life.
 The principles of the former, as laid down by the Greeks, we may not realise in an age so marred by false ideals as our own.
 The principles of the latter, as they laid them down, are, in many cases, so subtle that we can hardly understand them.
@@ -1226,10 +1069,6 @@ That must be our test, and perhaps then we shall be able to appreciate some of t
 As it now is, we cannot do so.
 Sometimes, when I have written a piece of prose that I have been modest enough to consider absolutely free from fault, a dreadful thought comes over me that I may have been guilty of the immoral effeminacy of using trochaic and tribrachic movements, a crime for which a learned critic of the Augustan age censures with most just severity the brilliant if somewhat paradoxical Hegesias.
 I grow cold when I think of it, and wonder to myself if the admirable ethical effect of the prose of that charming writer, who once in a spirit of reckless generosity towards the uncultivated portion of our community proclaimed the monstrous doctrine that conduct is three-fourths of life, will not some day be entirely annihilated by the discovery that the pæons have been wrongly placed.
-ERNEST.
-Ah!
-now you are flippant.
-GILBERT.
 Who would not be flippant when he is gravely told that the Greeks had no art-critics?
 I can understand it being said that the constructive genius of the Greeks lost itself in criticism, but not that the race to whom we owe the critical spirit did not criticise.
 You will not ask me to give you a survey of Greek art criticism from Plato to Plotinus.
@@ -1268,9 +1107,6 @@ She need not be afraid.
 I am tired of my expedition into the dim, dull abyss of facts.
 There is nothing left for me now but the divine μονόχρονος ηδονή of another cigarette.
 Cigarettes have at least the charm of leaving one unsatisfied.
-ERNEST.
-Try one of mine.
-They are rather good.
 I get them direct from Cairo.
 The only use of our _attachés_ is that they supply their friends with excellent tobacco.
 And as the moon has hidden herself, let us talk a little longer.
@@ -1279,15 +1115,12 @@ They were, as you have pointed out, a nation of art-critics.
 I acknowledge it, and I feel a little sorry for them.
 For the creative faculty is higher than the critical.
 There is really no comparison between them.
-GILBERT.
 The antithesis between them is entirely arbitrary.
 Without the critical faculty, there is no artistic creation at all, worthy of the name.
 You spoke a little while ago of that fine spirit of choice and delicate instinct of selection by which the artist realises life for us, and gives to it a momentary perfection.
 Well, that spirit of choice, that subtle tact of omission, is really the critical faculty in one of its most characteristic moods, and no one who does not possess this critical faculty can create anything at all in art.
 Arnold’s definition of literature as a criticism of life was not very felicitous in form, but it showed how keenly he recognised the importance of the critical element in all creative work.
-ERNEST.
 I should have said that great artists work unconsciously, that they were ‘wiser than they knew,’ as, I think, Emerson remarks somewhere.
-GILBERT.
 It is really not so, Ernest.
 All fine imaginative work is self-conscious and deliberate.
 No poet sings because he must sing.
@@ -1300,10 +1133,8 @@ But in this we are merely lending to other ages what we desire, or think we desi
 Our historical sense is at fault.
 Every century that produces poetry is, so far, an artificial century, and the work that seems to us to be the most natural and simple product of its time is always the result of the most self-conscious effort.
 Believe me, Ernest, there is no fine art without self-consciousness, and self-consciousness and the critical spirit are one.
-ERNEST.
 I see what you mean, and there is much in it.
 But surely you would admit that the great poems of the early world, the primitive, anonymous collective poems, were the result of the imagination of races, rather than of the imagination of individuals?
-GILBERT.
 Not when they became poetry.
 Not when they received a beautiful form.
 For there is no art where there is no style, and no style where there is no unity, and unity is of the individual.
@@ -1331,50 +1162,39 @@ To it we owe the epic, the lyric, the entire drama in every one of its developme
 In fact, we owe it everything, except the sonnet, to which, however, some curious parallels of thought-movement may be traced in the Anthology, American journalism, to which no parallel can be found anywhere, and the ballad in sham Scotch dialect, which one of our most industrious writers has recently proposed should be made the basis for a final and unanimous effort on the part of our second-rate poets to make themselves really romantic.
 Each new school, as it appears, cries out against criticism, but it is to the critical faculty in man that it owes its origin.
 The mere creative instinct does not innovate, but reproduces.
-ERNEST.
 You have been talking of criticism as an essential part of the creative spirit, and I now fully accept your theory.
 But what of criticism outside creation?
 I have a foolish habit of reading periodicals, and it seems to me that most modern criticism is perfectly valueless.
-GILBERT.
 So is most modern creative work also.
 Mediocrity weighing mediocrity in the balance, and incompetence applauding its brother—that is the spectacle which the artistic activity of England affords us from time to time.
 And yet, I feel I am a little unfair in this matter.
 As a rule, the critics—I speak, of course, of the higher class, of those in fact who write for the sixpenny papers—are far more cultured than the people whose work they are called upon to review.
 This is, indeed, only what one would expect, for criticism demands infinitely more cultivation than creation does.
-GILBERT.
-Certainly.
 Anybody can write a three-volumed novel.
 It merely requires a complete ignorance of both life and literature.
 The difficulty that I should fancy the reviewer feels is the difficulty of sustaining any standard.
 Where there is no style a standard must be impossible.
 The poor reviewers are apparently reduced to be the reporters of the police-court of literature, the chroniclers of the doings of the habitual criminals of art.
 It is sometimes said of them that they do not read all through the works they are called upon to criticise.
-They do not.
 Or at least they should not.
 If they did so, they would become confirmed misanthropes, or if I may borrow a phrase from one of the pretty Newnham graduates, confirmed womanthropes for the rest of their lives.
-Nor is it necessary.
 To know the vintage and quality of a wine one need not drink the whole cask.
 It must be perfectly easy in half an hour to say whether a book is worth anything or worth nothing.
 Ten minutes are really sufficient, if one has the instinct for form.
 Who wants to wade through a dull volume?
 One tastes it, and that is quite enough—more than enough, I should imagine.
 I am aware that there are many honest workers in painting as well as in literature who object to criticism entirely.
-They are quite right.
 Their work stands in no intellectual relation to their age.
 It brings us no new element of pleasure.
 It suggests no fresh departure of thought, or passion, or beauty.
 It should not be spoken of.
 It should be left to the oblivion that it deserves.
-ERNEST.
 But, my dear fellow—excuse me for interrupting you—you seem to me to be allowing your passion for criticism to lead you a great deal too far.
 For, after all, even you must admit that it is much more difficult to do a thing than to talk about it.
-GILBERT.
 More difficult to do a thing than to talk about it?
-Not at all.
 That is a gross popular error.
 It is very much more difficult to talk about a thing than to do it.
 In the sphere of actual life that is of course obvious.
-Anybody can make history.
 Only a great man can write it.
 There is no mode of action, no form of emotion, that we do not share with the lower animals.
 It is only by language that we rise above them, or above each other—by language, which is the parent, and not the child, of thought.
@@ -1384,20 +1204,16 @@ It is a blind thing dependent on external influences, and moved by an impulse of
 It is a thing incomplete in its essence, because limited by accident, and ignorant of its direction, being always at variance with its aim.
 Its basis is the lack of imagination.
 It is the last resource of those who know not how to dream.
-ERNEST.
 Gilbert, you treat the world as if it were a crystal ball.
 You hold it in your hand, and reverse it to please a wilful fancy.
 You do nothing but re-write history.
-GILBERT.
 The one duty we owe to history is to re-write it.
 That is not the least of the tasks in store for the critical spirit.
 When we have fully discovered the scientific laws that govern life, we shall realise that the one person who has more illusions than the dreamer is the man of action.
 He, indeed, knows neither the origin of his deeds nor their results.
 From the field in which he thought that he had sown thorns, we have gathered our vintage, and the fig-tree that he planted for our pleasure is as barren as the thistle, and more bitter.
 It is because Humanity has never known where it was going that it has been able to find its way.
-ERNEST.
 You think, then, that in the sphere of action a conscious aim is a delusion?
-GILBERT.
 It is worse than a delusion.
 If we lived long enough to see the results of our actions it may be that those who call themselves good would be sickened with a dull remorse, and those whom the world calls evil stirred by a noble joy.
 Each little thing that we do passes into the great machine of life which may grind our virtues to powder and make them worthless, or transform our sins into elements of a new civilisation, more marvellous and more splendid than any that has gone before.
@@ -1409,26 +1225,19 @@ By its curiosity Sin increases the experience of the race.
 Through its intensified assertion of individualism, it saves us from monotony of type.
 In its rejection of the current notions about morality, it is one with the higher ethics.
 And as for the virtues!
-What are the virtues?
 Nature, M. Renan tells us, cares little about chastity, and it may be that it is to the shame of the Magdalen, and not to their own purity, that the Lucretias of modern life owe their freedom from stain.
 Charity, as even those of whose religion it makes a formal part have been compelled to acknowledge, creates a multitude of evils.
 The mere existence of conscience, that faculty of which people prate so much nowadays, and are so ignorantly proud, is a sign of our imperfect development.
 It must be merged in instinct before we become fine.
 Self-denial is simply a method by which man arrests his progress, and self-sacrifice a survival of the mutilation of the savage, part of that old worship of pain which is so terrible a factor in the history of the world, and which even now makes its victims day by day, and has its altars in the land.
-Virtues!
 Who knows what the virtues are?
-Not you.
-Not I.
-Not any one.
 It is well for our vanity that we slay the criminal, for if we suffered him to live he might show us what we had gained by his crime.
 It is well for his peace that the saint goes to his martyrdom.
 He is spared the sight of the horror of his harvest.
-ERNEST.
 Gilbert, you sound too harsh a note.
 Let us go back to the more gracious fields of literature.
 What was it you said?
 That it was more difficult to talk about a thing than to do it?
-GILBERT (_after a pause_).
 Yes: I believe I ventured upon that simple truth.
 Surely you see now that I am right?
 When man acts he is a puppet.
@@ -1452,18 +1261,11 @@ The white arms of Andromache are around his neck.
 He sets his helmet on the ground, lest their babe should be frightened.
 Behind the embroidered curtains of his pavilion sits Achilles, in perfumed raiment, while in harness of gilt and silver the friend of his soul arrays himself to go forth to the fight.
 From a curiously carven chest that his mother Thetis had brought to his ship-side, the Lord of the Myrmidons takes out that mystic chalice that the lip of man had never touched, and cleanses it with brimstone, and with fresh water cools it, and, having washed his hands, fills with black wine its burnished hollow, and spills the thick grape-blood upon the ground in honour of Him whom at Dodona barefooted prophets worshipped, and prays to Him, and knows not that he prays in vain, and that by the hands of two knights from Troy, Panthous’ son, Euphorbus, whose love-locks were looped with gold, and the Priamid, the lion-hearted, Patroklus, the comrade of comrades, must meet his doom.
-Phantoms, are they?
 Heroes of mist and mountain?
-Shadows in a song?
-No: they are real.
-Action!
-What is action?
 It dies at the moment of its energy.
 It is a base concession to fact.
 The world is made by the singer for the dreamer.
-ERNEST.
 While you talk it seems to me to be so.
-GILBERT.
 It is so in truth.
 On the mouldering citadel of Troy lies the lizard like a thing of green bronze.
 The owl has built her nest in the palace of Priam.
@@ -1487,38 +1289,27 @@ The image stained upon the canvas possesses no spiritual element of growth or ch
 If they know nothing of death, it is because they know little of life, for the secrets of life and death belong to those, and those only, whom the sequence of time affects, and who possess not merely the present but the future, and can rise or fall from a past of glory or of shame.
 Movement, that problem of the visible arts, can be truly realised by Literature alone.
 It is Literature that shows us the body in its swiftness and the soul in its unrest.
-ERNEST.
 Yes; I see now what you mean.
 But, surely, the higher you place the creative artist, the lower must the critic rank.
-GILBERT.
-Why so?
-ERNEST.
 Because the best that he can give us will be but an echo of rich music, a dim shadow of clear-outlined form.
 It may, indeed, be that life is chaos, as you tell me that it is; that its martyrdoms are mean and its heroisms ignoble; and that it is the function of Literature to create, from the rough material of actual existence, a new world that will be more marvellous, more enduring, and more true than the world that common eyes look upon, and through which common natures seek to realise their perfection.
 But surely, if this new world has been made by the spirit and touch of a great artist, it will be a thing so complete and perfect that there will be nothing left for the critic to do.
 I quite understand now, and indeed admit most readily, that it is far more difficult to talk about a thing than to do it.
 But it seems to me that this sound and sensible maxim, which is really extremely soothing to one’s feelings, and should be adopted as its motto by every Academy of Literature all over the world, applies only to the relations that exist between Art and Life, and not to any relations that there may be between Art and Criticism.
-GILBERT.
 But, surely, Criticism is itself an art.
 And just as artistic creation implies the working of the critical faculty, and, indeed, without it cannot be said to exist at all, so Criticism is really creative in the highest sense of the word.
 Criticism is, in fact, both creative and independent.
-GILBERT.
-Yes; independent.
 Criticism is no more to be judged by any low standard of imitation or resemblance than is the work of poet or sculptor.
 The critic occupies the same relation to the work of art that he criticises as the artist does to the visible world of form and colour, or the unseen world of passion and of thought.
 He does not even require for the perfection of his art the finest materials.
 Anything will serve his purpose.
 And just as out of the sordid and sentimental amours of the silly wife of a small country doctor in the squalid village of Yonville-l’Abbaye, near Rouen, Gustave Flaubert was able to create a classic, and make a masterpiece of style, so, from subjects of little or of no importance, such as the pictures in this year’s Royal Academy, or in any year’s Royal Academy for that matter, Mr. Lewis Morris’s poems, M. Ohnet’s novels, or the plays of Mr. Henry Arthur Jones, the true critic can, if it be his pleasure so to direct or waste his faculty of contemplation, produce work that will be flawless in beauty and instinct with intellectual subtlety.
-Why not?
 Dulness is always an irresistible temptation for brilliancy, and stupidity is the permanent _Bestia Trionfans_ that calls wisdom from its cave.
 To an artist so creative as the critic, what does subject-matter signify?
 No more and no less than it does to the novelist and the painter.
 Like them, he can find his motives everywhere.
-Treatment is the test.
 There is nothing that has not in it suggestion or challenge.
-ERNEST.
 But is Criticism really a creative art?
-GILBERT.
 Why should it not be?
 It works with materials, and puts them into a form that is at once new and delightful.
 What more can one say of poetry?
@@ -1529,10 +1320,6 @@ Certainly, it is never trammelled by any shackles of verisimilitude.
 No ignoble considerations of probability, that cowardly concession to the tedious repetitions of domestic or public life, affect it ever.
 One may appeal from fiction unto fact.
 But from the soul there is no appeal.
-ERNEST.
-From the soul?
-GILBERT.
-Yes, from the soul.
 That is what the highest criticism really is, the record of one’s own soul.
 It is more fascinating than history, as it is concerned simply with oneself.
 It is more delightful than philosophy, as its subject is concrete and not abstract, real and not vague.
@@ -1541,18 +1328,12 @@ I am always amused by the silly vanity of those writers and artists of our day w
 The best that one can say of most modern creative art is that it is just a little less vulgar than reality, and so the critic, with his fine sense of distinction and sure instinct of delicate refinement, will prefer to look into the silver mirror or through the woven veil, and will turn his eyes away from the chaos and clamour of actual existence, though the mirror be tarnished and the veil be torn.
 His sole aim is to chronicle his own impressions.
 It is for him that pictures are painted, books written, and marble hewn into form.
-ERNEST.
 I seem to have heard another theory of Criticism.
-GILBERT.
 Yes: it has been said by one whose gracious memory we all revere, and the music of whose pipe once lured Proserpina from her Sicilian fields, and made those white feet stir, and not in vain, the Cumnor cowslips, that the proper aim of Criticism is to see the object as in itself it really is.
 But this is a very serious error, and takes no cognisance of Criticism’s most perfect form, which is in its essence purely subjective, and seeks to reveal its own secret and not the secret of another.
 For the highest Criticism deals with art not as expressive but as impressive purely.
-ERNEST.
 But is that really so?
-GILBERT.
-Of course it is.
 Who cares whether Mr. Ruskin’s views on Turner are sound or not?
-What does it matter?
 That mighty and majestic prose of his, so fervid and so fiery-coloured in its noble eloquence, so rich in its elaborate symphonic music, so sure and certain, at its best, in subtle choice of word and epithet, is at least as great a work of art as any of those wonderful sunsets that bleach or rot on their corrupted canvases in England’s Gallery; greater indeed, one is apt to think at times, not merely because its equal beauty is more enduring, but on account of the fuller variety of its appeal, soul speaking to soul in those long-cadenced lines, not through form and colour alone, though through these, indeed, completely and without loss, but with intellectual and emotional utterance, with lofty passion and with loftier thought, with imaginative insight, and with poetic aim; greater, I always think, even as Literature is the greater art.
 Who, again, cares whether Mr. Pater has put into the portrait of Monna Lisa something that Lionardo never dreamed of?
 The painter may have been merely the slave of an archaic smile, as some have fancied, but whenever I pass into the cool galleries of the Palace of the Louvre, and stand before that strange figure ‘set in its marble chair in that cirque of fantastic rocks, as in some faint light under sea,’ I murmur to myself, ‘She is older than the rocks among which she sits; like the vampire, she has been dead many times, and learned the secrets of the grave; and has been a diver in deep seas, and keeps their fallen day about her: and trafficked for strange webs with Eastern merchants; and, as Leda, was the mother of Helen of Troy, and, as St. Anne, the mother of Mary; and all this has been to her but as the sound of lyres and flutes, and lives only in the delicacy with which it has moulded the changing lineaments, and tinged the eyelids and the hands.’  And I say to my friend, ‘The presence that thus so strangely rose beside the waters is expressive of what in the ways of a thousand years man had come to desire’; and he answers me, ‘Hers is the head upon which all “the ends of the world are come,” and the eyelids are a little weary.’ And so the picture becomes more wonderful to us than it really is, and reveals to us a secret of which, in truth, it knows nothing, and the music of the mystical prose is as sweet in our ears as was that flute-player’s music that lent to the lips of La Gioconda those subtle and poisonous curves.
@@ -1572,13 +1353,9 @@ Beauty has as many meanings as man has moods.
 Beauty is the symbol of symbols.
 Beauty reveals everything, because it expresses nothing.
 When it shows us itself, it shows us the whole fiery-coloured world.
-ERNEST.
 But is such work as you have talked about really criticism?
-GILBERT.
 It is the highest Criticism, for it criticises not merely the individual work of art, but Beauty itself, and fills with wonder a form which the artist may have left void, or not understood, or understood incompletely.
-ERNEST.
 The highest Criticism, then, is more creative than creation, and the primary aim of the critic is to see the object as in itself it really is not; that is your theory, I believe?
-GILBERT.
 Yes, that is my theory.
 To the critic the work of art is simply a suggestion for a new work of his own, that need not necessarily bear any obvious resemblance to the thing it criticises.
 The one characteristic of a beautiful form is that one can put into it whatever one wishes, and see in it whatever one chooses to see; and the Beauty, that gives to creation its universal and æsthetic element, makes the critic a creator in his turn, and whispers of a thousand different things which were not present in the mind of him who carved the statue or painted the panel or graved the gem.
@@ -1613,27 +1390,18 @@ Some resemblance, no doubt, the creative work of the critic will have to the wor
 Just as on the flowerless carpets of Persia, tulip and rose blossom indeed and are lovely to look on, though they are not reproduced in visible shape or line; just as the pearl and purple of the sea-shell is echoed in the church of St. Mark at Venice; just as the vaulted ceiling of the wondrous chapel at Ravenna is made gorgeous by the gold and green and sapphire of the peacock’s tail, though the birds of Juno fly not across it; so the critic reproduces the work that he criticises in a mode that is never imitative, and part of whose charm may really consist in the rejection of resemblance, and shows us in this way not merely the meaning but also the mystery of Beauty, and, by transforming each art into literature, solves once for all the problem of Art’s unity.
 But I see it is time for supper.
 After we have discussed some Chambertin and a few ortolans, we will pass on to the question of the critic considered in the light of the interpreter.
-ERNEST.
-Ah!
 you admit, then, that the critic may occasionally be allowed to see the object as in itself it really is.
-GILBERT.
 I am not quite sure.
 Perhaps I may admit it after supper.
 There is a subtle influence in supper.
 _A DIALOGUE_: _Part II._  _Persons_: _the same_.
-_Scene_: _the same_.
-ERNEST.
 The ortolans were delightful, and the Chambertin perfect, and now let us return to the point at issue.
-GILBERT.
-Ah!
 don’t let us do that.
 Conversation should touch everything, but should concentrate itself on nothing.
 Let us talk about _Moral Indignation_, _its Cause and Cure_, a subject on which I think of writing: or about _The Survival of Thersites_, as shown by the English comic papers; or about any topic that may turn up.
-ERNEST.
 No; I want to discuss the critic and criticism.
 You have told me that the highest criticism deals with art, not as expressive, but as impressive purely, and is consequently both creative and independent, is in fact an art by itself, occupying the same relation to creative work that creative work does to the visible world of form and colour, or the unseen world of passion and of thought.
 Well, now, tell me, will not the critic be sometimes a real interpreter?
-GILBERT.
 Yes; the critic will be an interpreter, if he chooses.
 He can pass from his synthetic impression of the work of art as a whole, to an analysis or exposition of the work itself, and in this lower sphere, as I hold it to be, there are many delightful things to be said and done.
 Yet his object will not always be to explain the work of art.
@@ -1647,14 +1415,10 @@ Rather, he will look upon Art as a goddess whose mystery it is his province to i
 And here, Ernest, this strange thing happens.
 The critic will indeed be an interpreter, but he will not be an interpreter in the sense of one who simply repeats in another form a message that has been put into his lips to say.
 For, just as it is only by contact with the art of foreign nations that the art of a country gains that individual and separate life that we call nationality, so, by curious inversion, it is only by intensifying his own personality that the critic can interpret the personality and work of others, and the more strongly this personality enters into the interpretation the more real the interpretation becomes, the more satisfying, the more convincing, and the more true.
-ERNEST.
 I would have said that personality would have been a disturbing element.
-GILBERT.
 No; it is an element of revelation.
 If you wish to understand others you must intensify your own individualism.
-ERNEST.
 What, then, is the result?
-GILBERT.
 I will tell you, and perhaps I can tell you best by definite example.
 It seems to me that, while the literary critic stands of course first, as having the wider range, and larger vision, and nobler material, each of the arts has a critic, as it were, assigned to it.
 The actor is a critic of the drama.
@@ -1671,13 +1435,9 @@ People sometimes say that actors give us their own Hamlets, and not Shakespeare�
 In point of fact, there is no such thing as Shakespeare’s Hamlet.
 If Hamlet has something of the definiteness of a work of art, he has also all the obscurity that belongs to life.
 There are as many Hamlets as there are melancholies.
-ERNEST.
 As many Hamlets as there are melancholies?
-GILBERT.
 Yes: and as art springs from personality, so it is only to personality that it can be revealed, and from the meeting of the two comes right interpretative criticism.
-ERNEST.
 The critic, then, considered as the interpreter, will give no less than he receives, and lend as much as he borrows?
-GILBERT.
 He will be always showing us the work of art in some new relation to our age.
 He will always be reminding us that great works of art are living things—are, in fact, the only things that live.
 So much, indeed, will he feel this, that I am certain that, as civilisation progresses and we become more highly organised, the elect spirits of each age, the critical and cultured spirits, will grow less and less interested in actual life, and _will seek to gain their impressions almost entirely from what Art has touched_.
@@ -1686,11 +1446,7 @@ Its catastrophes happen in the wrong way and to the wrong people.
 There is a grotesque horror about its comedies, and its tragedies seem to culminate in farce.
 One is always wounded when one approaches it.
 Things last either too long, or not long enough.
-ERNEST.
-Poor life!
-Poor human life!
 Are you not even touched by the tears that the Roman poet tells us are part of its essence.
-GILBERT.
 Too quickly touched by them, I fear.
 For when one looks back upon the life that was so vivid in its emotional intensity, and filled with such fervent moments of ecstasy or of joy, it all seems to be a dream and an illusion.
 What are the unreal things, but the passions that once burned one like fire?
@@ -1701,9 +1457,7 @@ No, Ernest; life cheats us with shadows, like a puppet-master.
 We ask it for pleasure.
 It gives it to us, with bitterness and disappointment in its train.
 We come across some noble grief that we think will lend the purple dignity of tragedy to our days, but it passes away from us, and things less noble take its place, and on some grey windy dawn, or odorous eve of silence and of silver, we find ourselves looking with callous wonder, or dull heart of stone, at the tress of gold-flecked hair that we had once so wildly worshipped and so madly kissed.
-ERNEST.
 Life then is a failure?
-GILBERT.
 From the artistic point of view, certainly.
 And the chief thing that makes life a failure from this artistic point of view is the thing that lends to life its sordid security, the fact that one can never repeat exactly the same emotion.
 How different it is in the world of Art!
@@ -1744,7 +1498,6 @@ On and on we go, climbing the marvellous stair, and the stars become larger than
 In a griffin-drawn chariot appears one whose brows are bound with olive, who is veiled in white, and mantled in green, and robed in a vesture that is coloured like live fire.
 The ancient flame wakes within us.
 Our blood quickens through terrible pulses.
-We recognise her.
 It is Beatrice, the woman we have worshipped.
 The ice congealed about our heart melts.
 Wild tears of anguish break from us, and we bow our forehead to the ground, for we know that we have sinned.
@@ -1766,8 +1519,6 @@ And if we grow tired of an antique time, and desire to realise our own age in al
 Close to your hand lies a little volume, bound in some Nile-green skin that has been powdered with gilded nenuphars and smoothed with hard ivory.
 It is the book that Gautier loved, it is Baudelaire’s masterpiece.
 Open it at that sad madrigal that begins     Que m’importe que tu sois sage?
-Sois belle!
-et sois triste!
 and you will find yourself worshipping sorrow as you have never worshipped joy.
 Pass on to the poem on the man who tortures himself, let its subtle music steal into your brain and colour your thoughts, and you will become for a moment what he was who wrote it; nay, not for a moment only, but for many barren moonlit nights and sunless sterile days will a despair that is not your own make its dwelling within you, and the misery of another gnaw your heart away.
 Read the whole book, suffer it to tell even one of its secrets to your soul, and your soul will grow eager to know more, and will feed upon poisonous honey, and seek to repent of strange crimes of which it is guiltless, and to make atonement for terrible pleasures that it has never known.
@@ -1784,15 +1535,10 @@ Dead lips have their message for us, and hearts that have fallen to dust can com
 We run to kiss the bleeding mouth of Fantine, and we follow Manon Lescaut over the whole world.
 Ours is the love-madness of the Tyrian, and the terror of Orestes is ours also.
 There is no passion that we cannot feel, no pleasure that we may not gratify, and we can choose the time of our initiation and the time of our freedom also.
-Life!
-Life!
 Don’t let us go to life for our fulfilment or our experience.
 It is a thing narrowed by circumstances, incoherent in its utterance, and without that fine correspondence of form and spirit which is the only thing that can satisfy the artistic and critical temperament.
 It makes us pay too high a price for its wares, and we purchase the meanest of its secrets at a cost that is monstrous and infinite.
-ERNEST.
 Must we go, then, to Art for everything?
-GILBERT.
-For everything.
 Because Art does not hurt us.
 The tears that we shed at a play are a type of the exquisite sterile emotions that it is the function of Art to awaken.
 We weep, but we are not wounded.
@@ -1803,15 +1549,7 @@ It is through Art, and through Art only, that we can realise our perfection; thr
 This results not merely from the fact that nothing that one can imagine is worth doing, and that one can imagine everything, but from the subtle law that emotional forces, like the forces of the physical sphere, are limited in extent and energy.
 One can feel so much, and no more.
 And how can it matter with what pleasure life tries to tempt one, or with what pain it seeks to maim and mar one’s soul, if in the spectacle of the lives of those who have never existed one has found the true secret of joy, and wept away one’s tears over their deaths who, like Cordelia and the daughter of Brabantio, can never die?
-ERNEST.
-Stop a moment.
 It seems to me that in everything that you have said there is something radically immoral.
-GILBERT.
-All art is immoral.
-ERNEST.
-All art?
-GILBERT.
-Yes.
 For emotion for the sake of emotion is the aim of art, and emotion for the sake of action is the aim of life, and of that practical organisation of life that we call society.
 Society, which is the beginning and basis of morals, exists simply for the concentration of human energy, and in order to ensure its own continuance and healthy stability it demands, and no doubt rightly demands, of each of its citizens that he should contribute some form of productive labour to the common weal, and toil and travail that the day’s work may be done.
 Society often forgives the criminal; it never forgives the dreamer.
@@ -1819,16 +1557,12 @@ The beautiful sterile emotions that art excites in us are hateful in its eyes, a
 They mean well, no doubt, these honest beaming folk.
 Perhaps that is the reason why they are so excessively tedious.
 But some one should teach them that while, in the opinion of society, Contemplation is the gravest sin of which any citizen can be guilty, in the opinion of the highest culture it is the proper occupation of man.
-GILBERT.
-Contemplation.
 I said to you some time ago that it was far more difficult to talk about a thing than to do it.
 Let me say to you now that to do nothing at all is the most difficult thing in the world, the most difficult and the most intellectual.
 To Plato, with his passion for wisdom, this was the noblest form of energy.
 To Aristotle, with his passion for knowledge, this was the noblest form of energy also.
 It was to this that the passion for holiness led the saint and the mystic of mediæval days.
-ERNEST.
 We exist, then, to do nothing?
-GILBERT.
 It is to do nothing that the elect exist.
 Action is limited and relative.
 Unlimited and absolute is the vision of him who sits at ease and watches, who walks in loneliness and dreams.
@@ -1843,7 +1577,6 @@ It is enough that our fathers believed.
 They have exhausted the faith-faculty of the species.
 Their legacy to us is the scepticism of which they were afraid.
 Had they put it into words, it might not live within us as thought.
-No, Ernest, no.
 We cannot go back to the saint.
 There is far more to be learned from the sinner.
 We cannot go back to the philosopher, and the mystic leads us astray.
@@ -1853,16 +1586,12 @@ Such things are less than the yellow trumpet of one daffodil of the field, far l
 To the æsthetic temperament the vague is always repellent.
 The Greeks were a nation of artists, because they were spared the sense of the infinite.
 Like Aristotle, like Goethe after he had read Kant, we desire the concrete, and nothing but the concrete can satisfy us.
-ERNEST.
 What then do you propose?
-GILBERT.
 It seems to me that with the development of the critical spirit we shall be able to realise, not merely our own lives, but the collective life of the race, and so to make ourselves absolutely modern, in the true meaning of the word modernity.
 For he to whom the present is the only thing that is present, knows nothing of the age in which he lives.
 To realise the nineteenth century, one must realise every century that has preceded it and that has contributed to its making.
 To know anything about oneself one must know all about others.
 There must be no mood with which one cannot sympathise, no dead mode of life that one cannot make alive.
-Is this impossible?
-I think not.
 By revealing to us the absolute mechanism of all action, and so freeing us from the self-imposed and trammelling burden of moral responsibility, the scientific principle of Heredity has become, as it were, the warrant for the contemplative life.
 It has shown us that we are never less free than when we try to act.
 It has hemmed us round with the nets of the hunter, and written upon the wall the prophecy of our doom.
@@ -1890,9 +1619,7 @@ Ours is the anguish of Atys, and ours the weak rage and noble sorrows of the Dan
 Do you think that it is the imagination that enables us to live these countless lives?
 Yes: it is the imagination; and the imagination is the result of heredity.
 It is simply concentrated race-experience.
-ERNEST.
 But where in this is the function of the critical spirit?
-GILBERT.
 The culture that this transmission of racial experiences makes possible can be made perfect by the critical spirit alone, and indeed may be said to be one with it.
 For who is the true critic but he who bears within himself the dreams, and ideas, and feelings of myriad generations, and to whom no form of thought is alien, no emotional impulse obscure?
 And who the true man of culture, if not he who by fine scholarship and fastidious rejection has made instinct self-conscious and intelligent, and can separate the work that has distinction from the work that has it not, and so by contact and comparison makes himself master of the secrets of style and school, and understands their meanings, and listens to their voices, and develops that spirit of disinterested curiosity which is the real root, as it is the real flower, of the intellectual life, and thus attains to intellectual clarity, and, having learned ‘the best that is known and thought in the world,’ lives—it is not fanciful to say so—with those who are the Immortals.
@@ -1915,7 +1642,6 @@ Yes: all the arts are immoral, except those baser forms of sensual or didactic a
 For action of every kind belongs to the sphere of ethics.
 The aim of art is simply to create a mood.
 Is such a mode of life unpractical?
-Ah!
 it is not so easy to be unpractical as the ignorant Philistine imagines.
 It were well for England if it were so.
 There is no country in the world so much in need of unpractical people as this country of ours.
@@ -1926,9 +1652,6 @@ The necessity for a career forces every one to take sides.
 We live in the age of the overworked, and the under-educated; the age in which people are so industrious that they become absolutely stupid.
 And, harsh though it may sound, I cannot help saying that such people deserve their doom.
 The sure way of knowing nothing about life is to try to make oneself useful.
-ERNEST.
-A charming doctrine, Gilbert.
-GILBERT.
 I am not sure about that, but it has at least the minor merit of being true.
 That the desire to do good to others produces a plentiful crop of prigs is the least of the evils of which it is the cause.
 The prig is a very interesting psychological study, and though of all poses a moral pose is the most offensive, still to have a pose at all is something.
@@ -1951,7 +1674,6 @@ It takes a thoroughly grasping age, such as that in which we live, to set above 
 They miss their aim, too, these philanthropists and sentimentalists of our day, who are always chattering to one about one’s duty to one’s neighbour.
 For the development of the race depends on the development of the individual, and where self-culture has ceased to be the ideal, the intellectual standard is instantly lowered, and, often, ultimately lost.
 If you meet at dinner a man who has spent his life in educating himself—a rare type in our time, I admit, but still one occasionally to be met with—you rise from table richer, and conscious that a high ideal has for a moment touched and sanctified your days.
-But oh!
 my dear Ernest, to sit next to a man who has spent his life in trying to educate others!
 What a dreadful experience that is!
 How appalling is that ignorance which is the inevitable result of the fatal habit of imparting opinions!
@@ -1959,10 +1681,8 @@ How limited in range the creature’s mind proves to be!
 How it wearies us, and must weary himself, with its endless repetitions and sickly reiteration!
 How lacking it is in any element of intellectual growth!
 In what a vicious circle it always moves!
-ERNEST.
 You speak with strange feeling, Gilbert.
 Have you had this dreadful experience, as you call it, lately?
-GILBERT.
 Few of us escape it.
 People say that the schoolmaster is abroad.
 I wish to goodness he were.
@@ -1977,26 +1697,18 @@ It is so easy for people to have sympathy with suffering.
 It is so difficult for them to have sympathy with thought.
 Indeed, so little do ordinary people understand what thought really is, that they seem to imagine that, when they have said that a theory is dangerous, they have pronounced its condemnation, whereas it is only such theories that have any true intellectual value.
 An idea that is not dangerous is unworthy of being called an idea at all.
-ERNEST.
-Gilbert, you bewilder me.
 You have told me that all art is, in its essence, immoral.
 Are you going to tell me now that all thought is, in its essence, dangerous?
-GILBERT.
 Yes, in the practical sphere it is so.
 The security of society lies in custom and unconscious instinct, and the basis of the stability of society, as a healthy organism, is the complete absence of any intelligence amongst its members.
 The great majority of people being fully aware of this, rank themselves naturally on the side of that splendid system that elevates them to the dignity of machines, and rage so wildly against the intrusion of the intellectual faculty into any question that concerns life, that one is tempted to define man as a rational animal who always loses his temper when he is called upon to act in accordance with the dictates of reason.
 But let us turn from the practical sphere, and say no more about the wicked philanthropists, who, indeed, may well be left to the mercy of the almond-eyed sage of the Yellow River Chuang Tsu the wise, who has proved that such well-meaning and offensive busybodies have destroyed the simple and spontaneous virtue that there is in man.
 They are a wearisome topic, and I am anxious to get back to the sphere in which criticism is free.
-ERNEST.
 The sphere of the intellect?
-GILBERT.
-Yes.
 You remember that I spoke of the critic as being in his own way as creative as the artist, whose work, indeed, may be merely of value in so far as it gives to the critic a suggestion for some new mood of thought and feeling which he can realise with equal, or perhaps greater, distinction of form, and, through the use of a fresh medium of expression, make differently beautiful and more perfect.
 Well, you seemed to be a little sceptical about the theory.
 But perhaps I wronged you?
-ERNEST.
 I am not really sceptical about it, but I must admit that I feel very strongly that such work as you describe the critic producing—and creative such work must undoubtedly be admitted to be—is, of necessity, purely subjective, whereas the greatest work is objective always, objective and impersonal.
-GILBERT.
 The difference between objective and subjective work is one of external form merely.
 It is accidental, not essential.
 All artistic creation is absolutely subjective.
@@ -2009,9 +1721,7 @@ Action being limited would have left Shakespeare unsatisfied and unexpressed; an
 Yes, the objective form is the most subjective in matter.
 Man is least himself when he talks in his own person.
 Give him a mask, and he will tell you the truth.
-ERNEST.
 The critic, then, being limited to the subjective form, will necessarily be less able fully to express himself than the artist, who has always at his disposal the forms that are impersonal and objective.
-GILBERT.
 Not necessarily, and certainly not at all if he recognises that each mode of criticism is, in its highest development, simply a mood, and that we are never more true to ourselves than when we are inconsistent.
 The æsthetic critic, constant only to the principle of beauty in all things, will ever be looking for fresh impressions, winning from the various schools the secret of their charm, bowing, it may be, before foreign altars, or smiling, if it be his fancy, at strange new gods.
 What other people call one’s past has, no doubt, everything to do with them, but has absolutely nothing to do with oneself.
@@ -2032,29 +1742,19 @@ He may use dialogue, as he did who set Milton talking to Marvel on the nature of
 Dialogue, certainly, that wonderful literary form which, from Plato to Lucian, and from Lucian to Giordano Bruno, and from Bruno to that grand old Pagan in whom Carlyle took such delight, the creative critics of the world have always employed, can never lose for the thinker its attraction as a mode of expression.
 By its means he can both reveal and conceal himself, and give form to every fancy, and reality to every mood.
 By its means he can exhibit the object from each point of view, and show it to us in the round, as a sculptor shows us things, gaining in this manner all the richness and reality of effect that comes from those side issues that are suddenly suggested by the central idea in its progress, and really illumine the idea more completely, or from those felicitous after-thoughts that give a fuller completeness to the central scheme, and yet convey something of the delicate charm of chance.
-ERNEST.
 By its means, too, he can invent an imaginary antagonist, and convert him when he chooses by some absurdly sophistical argument.
-GILBERT.
-Ah!
 it is so easy to convert others.
 It is so difficult to convert oneself.
 To arrive at what one really believes, one must speak through lips different from one’s own.
 To know the truth one must imagine myriads of falsehoods.
-For what is Truth?
 In matters of religion, it is simply the opinion that has survived.
 In matters of science, it is the ultimate sensation.
 In matters of art, it is one’s last mood.
 And you see now, Ernest, that the critic has at his disposal as many objective forms of expression as the artist has.
 Ruskin put his criticism into imaginative prose, and is superb in his changes and contradictions; and Browning put his into blank verse and made painter and poet yield us their secret; and M. Renan uses dialogue, and Mr. Pater fiction, and Rossetti translated into sonnet-music the colour of Giorgione and the design of Ingres, and his own design and colour also, feeling, with the instinct of one who had many modes of utterance; that the ultimate art is literature, and the finest and fullest medium that of words.
-ERNEST.
 Well, now that you have settled that the critic has at his disposal all objective forms, I wish you would tell me what are the qualities that should characterise the true critic.
-GILBERT.
 What would you say they were?
-ERNEST.
 Well, I should say that a critic should above all things be fair.
-GILBERT.
-Ah!
-not fair.
 A critic cannot be fair in the ordinary sense of the word.
 It is only about things that do not interest one that one can give a really unbiassed opinion, which is no doubt the reason why an unbiassed opinion is always absolutely valueless.
 The man who sees both sides of a question, is a man who sees absolutely nothing at all.
@@ -2067,10 +1767,7 @@ It is not even a condition of criticism.
 Each form of Art with which we come in contact dominates us for the moment to the exclusion of every other form.
 We must surrender ourselves absolutely to the work in question, whatever it may be, if we wish to gain its secret.
 For the time, we must think of nothing else, can think of nothing else, indeed.
-ERNEST.
 The true critic will be rational, at any rate, will he not?
-GILBERT.
-Rational?
 There are two ways of disliking art, Ernest.
 One is to dislike it.
 The other, to like it rationally.
@@ -2081,9 +1778,7 @@ If one loves Art at all, one must love it beyond all other things in the world, 
 There is nothing sane about the worship of beauty.
 It is too splendid to be sane.
 Those of whose lives it forms the dominant note will always seem to the world to be pure visionaries.
-ERNEST.
 Well, at least, the critic will be sincere.
-GILBERT.
 A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal.
 The true critic will, indeed, always be sincere in his devotion to the principle of beauty, but he will seek for beauty in every age and in each school, and will never suffer himself to be limited to any settled custom of thought or stereotyped mode of looking at things.
 He will realise himself in many forms, and by a thousand different ways, and will ever be curious of new sensations and fresh points of view.
@@ -2093,9 +1788,7 @@ For what is mind but motion in the intellectual sphere?
 The essence of thought, as the essence of life, is growth.
 You must not be frightened by word, Ernest.
 What people call insincerity is simply a method by which we can multiply our personalities.
-ERNEST.
 I am afraid I have not been fortunate in my suggestions.
-GILBERT.
 Of the three qualifications you mentioned, two, sincerity and fairness, were, if not actually moral, at least on the borderland of morals, and the first condition of criticism is that the critic should be able to recognise that the sphere of Art and the sphere of Ethics are absolutely distinct and separate.
 When they are confused, Chaos has come again.
 They are too often confused in England now, and though our modern Puritans cannot destroy a beautiful thing, yet, by means of their extraordinary prurience, they can almost taint beauty for a moment.
@@ -2120,10 +1813,6 @@ But the artist, who accepts the facts of life, and yet transforms them into shap
 Not the apostles of that new Journalism which is but the old vulgarity ‘writ large.’  Not the apostles of that new Puritanism, which is but the whine of the hypocrite, and is both writ and spoken badly.
 The mere suggestion is ridiculous.
 Let us leave these wicked people, and proceed to the discussion of the artistic qualifications necessary for the true critic.
-ERNEST.
-And what are they?
-Tell me yourself.
-GILBERT.
 Temperament is the primary requisite for the critic—a temperament exquisitely susceptible to beauty, and to the various impressions that beauty gives us.
 Under what conditions, and by what means, this temperament is engendered in race or individual, we will not discuss at present.
 It is sufficient to note that it exists, and that there is in us a beauty-sense, separate from the other senses and above them, separate from the reason and of nobler import, separate from the soul and of equal value—a sense that leads some to create, and others, the finer spirits as I think, to contemplate merely.
@@ -2158,10 +1847,8 @@ Some of their arrangements and harmonies serve to remind one of the unapproachab
 For a class that welcomes the incompetent with sympathetic eagerness, and that confuses the bizarre with the beautiful, and vulgarity with truth, they are extremely accomplished.
 They can do etchings that have the brilliancy of epigrams, pastels that are as fascinating as paradoxes, and as for their portraits, whatever the commonplace may say against them, no one can deny that they possess that unique and wonderful charm which belongs to works of pure fiction.
 But even the Impressionists, earnest and industrious as they are, will not do.
-I like them.
 Their white keynote, with its variations in lilac, was an era in colour.
 Though the moment does not make the man, the moment certainly makes the Impressionist, and for the moment in art, and the ‘moment’s monument,’ as Rossetti phrased it, what may not be said?
-They are suggestive also.
 If they have not opened the eyes of the blind, they have at least given great encouragement to the short-sighted, and while their leaders may have all the inexperience of old age, their young men are far too wise to be ever sensible.
 Yet they will insist on treating painting as if it were a mode of autobiography invented for the use of the illiterate, and are always prating to us on their coarse gritty canvases of their unnecessary selves and their unnecessary opinions, and spoiling by a vulgar over-emphasis that fine contempt of nature which is the best and only modest thing about them.
 One tires, at the end, of the work of individuals whose individuality is always noisy, and generally uninteresting.
@@ -2174,7 +1861,6 @@ The harmony that resides in the delicate proportions of lines and masses becomes
 The repetitions of pattern give us rest.
 The marvels of design stir the imagination.
 In the mere loveliness of the materials employed there are latent elements of culture.
-Nor is this all.
 By its deliberate rejection of Nature as the ideal of beauty, as well as of the imitative method of the ordinary painter, decorative art not merely prepares the soul for the reception of true imaginative work, but develops in it that sense of form which is the basis of creative no less than of critical achievement.
 For the real artist is he who proceeds, not from feeling to form, but from form to thought and passion.
 He does not first conceive an idea, and then say to himself, ‘I will put my idea into a complex metre of fourteen lines,’ but, realising the beauty of the sonnet-scheme, he conceives certain modes of music and methods of rhyme, and the mere form suggests what is to fill it and make it intellectually and emotionally complete.
@@ -2185,17 +1871,13 @@ A real passion would ruin him.
 Whatever actually occurs is spoiled for art.
 All bad poetry springs from genuine feeling.
 To be natural is to be obvious, and to be obvious is to be inartistic.
-ERNEST.
 I wonder do you really believe what you say?
-GILBERT.
-Why should you wonder?
 It is not merely in art that the body is the soul.
 In every sphere of life Form is the beginning of things.
 The rhythmic harmonious gestures of dancing convey, Plato tells us, both rhythm and harmony into the mind.
 Forms are the food of faith, cried Newman in one of those great moments of sincerity that make us admire and know the man.
 He was right, though he may not have known how terribly right he was.
 The Creeds are believed, not because they are rational, but because they are repeated.
-Yes: Form is everything.
 It is the secret of life.
 Find expression for a sorrow, and it will become dear to you.
 Find expression for a joy, and you intensify its ecstasy.
@@ -2205,11 +1887,9 @@ Have you a grief that corrodes your heart?
 Steep yourself in the Language of grief, learn its utterance from Prince Hamlet and Queen Constance, and you will find that mere expression is a mode of consolation, and that Form, which is the birth of passion, is also the death of pain.
 And so, to return to the sphere of Art, it is Form that creates not merely the critical temperament, but also the æsthetic instinct, that unerring instinct that reveals to one all things under their conditions of beauty.
 Start with the worship of form, and there is no secret in art that will not be revealed to you, and remember that in criticism, as in creation, temperament is everything, and that it is, not by the time of their production, but by the temperaments to which they appeal, that the schools of art should be historically grouped.
-ERNEST.
 Your theory of education is delightful.
 But what influence will your critic, brought up in these exquisite surroundings, possess?
 Do you really think that any artist is ever affected by criticism?
-GILBERT.
 The influence of the critic will be the mere fact of his own existence.
 He will represent the flawless type.
 In him the culture of the century will see itself realised.
@@ -2221,11 +1901,9 @@ They do their best, no doubt, and consequently we get the worst from them.
 It is always with the best intentions that the worst work is done.
 And besides, my dear Ernest, when a man reaches the age of forty, or becomes a Royal Academician, or is elected a member of the Athenæum Club, or is recognised as a popular novelist, whose books are in great demand at suburban railway stations, one may have the amusement of exposing him, but one cannot have the pleasure of reforming him.
 And this is, I dare say, very fortunate for him; for I have no doubt that reformation is a much more painful process than punishment, is indeed punishment in its most aggravated and moral form—a fact which accounts for our entire failure as a community to reclaim that interesting phenomenon who is called the confirmed criminal.
-ERNEST.
 But may it not be that the poet is the best judge of poetry, and the painter of painting?
 Each art must appeal primarily to the artist who works in it.
 His judgment will surely be the most valuable?
-GILBERT.
 The appeal of all art is simply to the artistic temperament.
 Art does not address herself to the specialist.
 Her claim is that she is universal, and that in all her manifestations she is one.
@@ -2235,10 +1913,7 @@ The energy of creation hurries him blindly on to his own goal.
 The wheels of his chariot raise the dust as a cloud around him.
 The gods are hidden from each other.
 They can recognise their worshippers.
-That is all.
-ERNEST.
 You say that a great artist cannot recognise the beauty of work different from his own.
-GILBERT.
 It is impossible for him to do so.
 Wordsworth saw in _Endymion_ merely a pretty piece of Paganism, and Shelley, with his dislike of actuality, was deaf to Wordsworth’s message, being repelled by its form, and Byron, that great passionate human incomplete creature, could appreciate neither the poet of the cloud nor the poet of the lake, and the wonder of Keats was hidden from him.
 The realism of Euripides was hateful to Sophokles.
@@ -2250,35 +1925,24 @@ But a truly great artist cannot conceive of life being shown, or beauty fashione
 Creation employs all its critical faculty within its own sphere.
 It may not use it in the sphere that belongs to others.
 It is exactly because a man cannot do a thing that he is the proper judge of it.
-ERNEST.
 Do you really mean that?
-GILBERT.
 Yes, for creation limits, while contemplation widens, the vision.
-ERNEST.
-But what about technique?
 Surely each art has its separate technique?
-GILBERT.
 Certainly: each art has its grammar and its materials.
 There is no mystery about either, and the incompetent can always be correct.
 But, while the laws upon which Art rests may be fixed and certain, to find their true realisation they must be touched by the imagination into such beauty that they will seem an exception, each one of them.
-Technique is really personality.
 That is the reason why the artist cannot teach it, why the pupil cannot learn it, and why the æsthetic critic can understand it.
 To the great poet, there is only one method of music—his own.
 To the great painter, there is only one manner of painting—that which he himself employs.
 The æsthetic critic, and the æsthetic critic alone, can appreciate all forms and modes.
 It is to him that Art makes her appeal.
-ERNEST.
 Well, I think I have put all my questions to you.
 And now I must admit— GILBERT.
-Ah!
 don’t say that you agree with me.
 When people agree with me I always feel that I must be wrong.
-ERNEST.
 In that case I certainly won’t tell you whether I agree with you or not.
 But I will put another question.
 You have explained to me that criticism is a creative art.
-What future has it?
-GILBERT.
 It is to criticism that the future belongs.
 The subject-matter at the disposal of creation becomes every day more limited in extent and variety.
 Providence and Mr. Walter Besant have exhausted the obvious.
@@ -2363,23 +2027,18 @@ The change will of course be slow, and people will not be conscious of it.
 They will not say ‘We will not war against France because her prose is perfect,’ but because the prose of France is perfect, they will not hate the land.
 Intellectual criticism will bind Europe together in bonds far closer than those that can be forged by shopman or sentimentalist.
 It will give us the peace that springs from understanding.
-Nor is this all.
 It is Criticism that, recognising no position as final, and refusing to bind itself by the shallow shibboleths of any sect or school, creates that serene philosophic temper which loves truth for its own sake, and loves it not the less because it knows it to be unattainable.
 How little we have of this temper in England, and how much we need it!
 The English mind is always in a rage.
 The intellect of the race is wasted in the sordid and stupid quarrels of second-rate politicians or third-rate theologians.
 It was reserved for a man of science to show us the supreme example of that ‘sweet reasonableness’ of which Arnold spoke so wisely, and, alas!
-to so little effect.
 The author of the _Origin of Species_ had, at any rate, the philosophic temper.
 If one contemplates the ordinary pulpits and platforms of England, one can but feel the contempt of Julian, or the indifference of Montaigne.
 We are dominated by the fanatic, whose worst vice is his sincerity.
 Anything approaching to the free play of the mind is practically unknown amongst us.
 People cry out against the sinner, yet it is not the sinful, but the stupid, who are our shame.
 There is no sin except stupidity.
-ERNEST.
-Ah!
 what an antinomian you are!
-GILBERT.
 The artistic critic, like the mystic, is an antinomian always.
 To be good, according to the vulgar standard of goodness, is obviously quite easy.
 It merely requires a certain amount of sordid terror, a certain lack of imaginative thought, and a certain low passion for middle-class respectability.
@@ -2391,7 +2050,6 @@ Even a colour-sense is more important, in the development of the individual, tha
 Ethics, like natural selection, make existence possible.
 Æsthetics, like sexual selection, make life lovely and wonderful, fill it with new forms, and give it progress, and variety and change.
 And when we reach the true culture that is our aim, we attain to that perfection of which the saints have dreamed, the perfection of those to whom sin is impossible, not because they make the renunciations of the ascetic, but because they can do everything they wish without hurt to the soul, and can wish for nothing that can do the soul harm, the soul being an entity so divine that it is able to transform into elements of a richer experience, or a finer susceptibility, or a newer mode of thought, acts or passions that with the common would be commonplace, or with the uneducated ignoble, or with the shameful vile.
-Is this dangerous?
 Yes; it is dangerous—all ideas, as I told you, are so.
 But the night wearies, and the light flickers in the lamp.
 One more thing I cannot help saying to you.
@@ -2401,23 +2059,15 @@ Not to recognise this is to miss the meaning of one of the most important eras i
 Creation is always behind the age.
 It is Criticism that leads us.
 The Critical Spirit and the World-Spirit are one.
-ERNEST.
 And he who is in possession of this spirit, or whom this spirit possesses, will, I suppose, do nothing?
-GILBERT.
 Like the Persephone of whom Landor tells us, the sweet pensive Persephone around whose white feet the asphodel and amaranth are blooming, he will sit contented ‘in that deep, motionless quiet which mortals pity, and which the gods enjoy.’  He will look out upon the world and know its secret.
 By contact with divine things he will become divine.
 His will be the perfect life, and his only.
-ERNEST.
 You have told me many strange things to-night, Gilbert.
 You have told me that it is more difficult to talk about a thing than to do it, and that to do nothing at all is the most difficult thing in the world; you have told me that all Art is immoral, and all thought dangerous; that criticism is more creative than creation, and that the highest criticism is that which reveals in the work of Art what the artist had not put there; that it is exactly because a man cannot do a thing that he is the proper judge of it; and that the true critic is unfair, insincere, and not rational.
 My friend, you are a dreamer.
-GILBERT.
 Yes: I am a dreamer.
 For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.
-ERNEST.
-His punishment?
-GILBERT.
-And his reward.
 But, see, it is dawn already.
 Draw back the curtains and open the windows wide.
 How cool the morning air is!
@@ -2425,7 +2075,6 @@ Piccadilly lies at our feet like a long riband of silver.
 A faint purple mist hangs over the Park, and the shadows of the white houses are purple.
 It is too late to sleep.
 Let us go down to Covent Garden and look at the roses.
-Come!
 I am tired of thought.
 IN many of the somewhat violent attacks that have recently been made on that splendour of mounting which now characterises our Shakespearian revivals in England, it seems to have been tacitly assumed by the critics that Shakespeare himself was more or less indifferent to the costumes of his actors, and that, could he see Mrs. Langtry’s production of _Antony and Cleopatra_, he would probably say that the play, and the play only, is the thing, and that everything else is leather and prunella.
 While, as regards any historical accuracy in dress, Lord Lytton, in an article in the _Nineteenth Century_, has laid it down as a dogma of art that archæology is entirely out of place in the presentation of any of Shakespeare’s plays, and the attempt to introduce it one of the stupidest pedantries of an age of prigs.
@@ -2446,9 +2095,6 @@ when your head did but ache,     I knit my handkerchief about your brows,     (T
 Last night ’twas on my arm; I kissed it;     I hope it be not gone to tell my lord     That I kiss aught but he, says Imogen, jesting on the loss of the bracelet which was already on its way to Rome to rob her of her husband’s faith; the little Prince passing to the Tower plays with the dagger in his uncle’s girdle; Duncan sends a ring to Lady Macbeth on the night of his own murder, and the ring of Portia turns the tragedy of the merchant into a wife’s comedy.
 The great rebel York dies with a paper crown on his head; Hamlet’s black suit is a kind of colour-motive in the piece, like the mourning of the Chimène in the _Cid_; and the climax of Antony’s speech is the production of Cæsar’s cloak:—              I remember     The first time ever Cæsar put it on.
 ’Twas on a summer’s evening, in his tent,     The day he overcame the Nervii:—     Look, in this place ran Cassius’ dagger through:     See what a rent the envious Casca made:     Through this the well-beloved Brutus stabbed.
-.
-.
-.
 Kind souls, what, weep you when you but behold     Our Cæsar’s vesture wounded?
 The flowers which Ophelia carries with her in her madness are as pathetic as the violets that blossom on a grave; the effect of Lear’s wandering on the heath is intensified beyond words by his fantastic attire; and when Cloten, stung by the taunt of that simile which his sister draws from her husband’s raiment, arrays himself in that husband’s very garb to work upon her the deed of shame, we feel that there is nothing in the whole of modern French realism, nothing even in _Thérèse Raquin_, that masterpiece of horror, which for terrible and tragic significance can compare with this strange scene in _Cymbeline_.
 In the actual dialogue also some of the most vivid passages are those suggested by costume.
@@ -2649,7 +2295,6 @@ The value of black is hardly appreciated; it was used effectively by Mr. Irving 
 And this is curious, considering the general colour of the dress of a century in which, as Baudelaire says, ‘Nous célébrons tous quelque enterrement.’  The archæologist of the future will probably point to this age as the time when the beauty of black was understood; but I hardly think that, as regards stage-mounting or house decoration, it really is.
 Its decorative value is, of course, the same as that of white or gold; it can separate and harmonise colours.
 In modern plays the black frock-coat of the hero becomes important in itself, and should be given a suitable background.
-But it rarely is.
 Indeed the only good background for a play in modern dress which I have ever seen was the dark grey and cream-white scene of the first act of the _Princesse Georges_ in Mrs. Langtry’s production.
 As a rule, the hero is smothered in _bric-à-brac_ and palm-trees, lost in the gilded abyss of Louis Quatorze furniture, or reduced to a mere midge in the midst of marqueterie; whereas the background should always be kept as a background, and colour subordinated to effect.
 This, of course, can only be done when there is one single mind directing the whole production.

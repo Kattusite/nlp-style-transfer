@@ -27,8 +27,11 @@ def main():
             s += "\n"
 
             ws = s.split()
-            # if len(ws) < 5:
-            #     continue
+
+            # Short sentences are too hard to classify and
+            # don't have much interesting stylistic content
+            if len(ws) < 5:
+                continue
 
             out.write(s)
             # out.write("\n-------------\n")
