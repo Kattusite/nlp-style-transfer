@@ -94,7 +94,7 @@ def train_sequence_model(data,
     # Create callback for early stopping on validation loss. If the loss does
     # not decrease in two consecutive tries, stop training.
     callbacks = [tf.keras.callbacks.EarlyStopping(
-        monitor='val_loss', patience=2)]
+        monitor='val_loss', patience=2)]  # patience 2 default
 
     # Train and validate model.
     history = model.fit(
@@ -129,7 +129,7 @@ if __name__ == '__main__':
     data = load_data.load_all_data(train_file=train, dev_file=dev)
 
     # only runs for 5-6 epochs before the early stopping callback kicks in
-    # and terminates the training. 
+    # and terminates the training.
     # takes about 250sec/epoch on my laptop CPU - Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
     # takes about 115sec/epoch on my laptop GPU - NVIDIA GeForce GTX 1050 Ti with Max-Q Design
     train_sequence_model(data)
