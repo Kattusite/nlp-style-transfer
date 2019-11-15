@@ -4,6 +4,8 @@
 import sys
 import nltk.data
 
+REPLACE = True # Whether or not we should replace named entities with token or just delete
+
 # https://stackoverflow.com/questions/43742956/fast-named-entity-removal-with-nltk
 def extract_nonentities(tree):
     tokens = [leaf[0] for leaf in tree if type(leaf) != nltk.Tree]
@@ -12,7 +14,7 @@ def extract_nonentities(tree):
 def replace_nonentities(tree):
     """Given a tree, replace all named entities with a placeholder token, like
     <NAMED_ENTITY>"""
-    placeholder = "<NAMED_ENTITY>"
+    placeholder = "<NAME>" # "<NAMED_ENTITY>"
 
     tokens = []
     for leaf in tree:
@@ -48,7 +50,14 @@ def main():
 
         nonentities = []
         for tree in chunked:
-            nonentities.append(extract_nonentities(tree))
+
+            x = None
+            if REPLACE:
+                x = replace_nonentities(tree)
+            else:
+                x = extract_nonentities(tree)
+
+            nonentities.append(x)
 
 
         for ne in nonentities:

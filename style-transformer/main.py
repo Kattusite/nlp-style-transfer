@@ -6,7 +6,7 @@ from train import train, auto_eval
 
 
 class Config():
-    data_path = './data/yelp/'
+    data_path = './data/novels/'
     log_dir = 'runs/exp'
     save_path = './save'
     pretrained_embed_path = './embedding/'
@@ -14,7 +14,7 @@ class Config():
     discriminator_method = 'Multi' # 'Multi' or 'Cond'
     load_pretrained_embed = False
     min_freq = 3
-    max_length = 16
+    max_length = 80 # 16 defult. 100 too large -- out of memory on my laptop
     embed_size = 256
     d_model = 256
     h = 4
@@ -52,9 +52,9 @@ def main():
     model_F = StyleTransformer(config, vocab).to(config.device)
     model_D = Discriminator(config, vocab).to(config.device)
     print(config.discriminator_method)
-    
+
     train(config, vocab, model_F, model_D, train_iters, dev_iters, test_iters)
-    
+
 
 if __name__ == '__main__':
     main()
