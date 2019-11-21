@@ -42,10 +42,14 @@ def main():
 
         # Open the output file and write out the sentences
         filename = "merged/{}.txt".format(name)
-        outfile = open(filename, "w", encoding="utf=8")
+        filename_ft = "merged/{}_ft.txt".format(name)
+        outfile = open(filename, "w", encoding="utf-8")
+        outfile_ft = open(filename_ft, "w", encoding="utf-8")
         for sentence in data:
             outfile.write(sentence)
+            outfile_ft.write("__label__" + sentence)
         outfile.close()
+        outfile_ft.close()
 
 
 

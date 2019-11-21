@@ -13,7 +13,7 @@ class StyleTransformer(nn.Module):
         h, dropout = config.h, config.dropout
         learned_pos_embed = config.learned_pos_embed
         load_pretrained_embed = config.load_pretrained_embed
-        
+
         self.max_length = config.max_length
         self.eos_idx = vocab.stoi['<eos>']
         self.pad_idx = vocab.stoi['<pad>']
@@ -27,13 +27,13 @@ class StyleTransformer(nn.Module):
         self.sos_token = nn.Parameter(torch.randn(d_model))
         self.encoder = Encoder(num_layers, d_model, len(vocab), h, dropout)
         self.decoder = Decoder(num_layers, d_model, len(vocab), h, dropout)
-        
+
     def forward(self, inp_tokens, gold_tokens, inp_lengths, style,
                 generate=False, differentiable_decode=False, temperature=1.0):
         batch_size = inp_tokens.size(0)
         max_enc_len = inp_tokens.size(1)
 
-        assert max_enc_len <= self.max_length
+        assert max_enc_len <= self.max_length, max_enc_len
 
         pos_idx = torch.arange(self.max_length).unsqueeze(0).expand((batch_size, -1))
         pos_idx = pos_idx.to(inp_lengths.device)
@@ -49,9 +49,9 @@ class StyleTransformer(nn.Module):
 
         enc_input = torch.cat((style_emb, self.embed(inp_tokens, pos_idx[:, :max_enc_len])), 1)
         memory = self.encoder(enc_input, src_mask)
-        
+
         sos_token = self.sos_token.view(1, 1, -1).expand(batch_size, -1, -1)
-        
+
         if not generate:
             dec_input = gold_tokens[:, :-1]
             max_dec_len = gold_tokens.size(1)
@@ -62,11 +62,11 @@ class StyleTransformer(nn.Module):
                 temperature
             )
         else:
-            
+
             log_probs = []
             next_token = sos_token
             prev_states = None
-            
+
             for k in range(self.max_length):
                 log_prob, prev_states = self.decoder.incremental_forward(
                     next_token, memory,
@@ -76,7 +76,7 @@ class StyleTransformer(nn.Module):
                 )
 
                 log_probs.append(log_prob)
-                
+
                 if differentiable_decode:
                     next_token = self.embed(log_prob.exp(), pos_idx[:, k:k+1])
                 else:
@@ -86,10 +86,10 @@ class StyleTransformer(nn.Module):
                 #    break
 
             log_probs = torch.cat(log_probs, 1)
-            
-            
+
+
         return log_probs
-    
+
 class Discriminator(nn.Module):
     def __init__(self, config, vocab):
         super(Discriminator, self).__init__()
@@ -99,7 +99,7 @@ class Discriminator(nn.Module):
         learned_pos_embed = config.learned_pos_embed
         load_pretrained_embed = config.load_pretrained_embed
         num_classes = config.num_classes
-        
+
         self.pad_idx = vocab.stoi['<pad>']
         self.style_embed = Embedding(num_styles, d_model)
         self.embed = EmbeddingLayer(
@@ -111,7 +111,7 @@ class Discriminator(nn.Module):
         self.cls_token = nn.Parameter(torch.randn(d_model))
         self.encoder = Encoder(num_layers, d_model, len(vocab), h, dropout)
         self.classifier = Linear(d_model, num_classes)
-    
+
     def forward(self, inp_tokens, inp_lengths, style=None):
         batch_size = inp_tokens.size(0)
         num_extra_token = 1 if style is None else 2
@@ -129,32 +129,32 @@ class Discriminator(nn.Module):
         if style is not None:
             style_emb = self.style_embed(style).unsqueeze(1)
             enc_input = torch.cat((enc_input, style_emb), 1)
-            
+
         enc_input = torch.cat((enc_input, self.embed(inp_tokens, pos_idx)), 1)
-        
+
         encoded_features = self.encoder(enc_input, mask)
         logits = self.classifier(encoded_features[:, 0])
 
         return F.log_softmax(logits, -1)
-        
-        
-    
+
+
+
 class Encoder(nn.Module):
     def __init__(self, num_layers, d_model, vocab_size, h, dropout):
         super(Encoder, self).__init__()
         self.layers = nn.ModuleList([EncoderLayer(d_model, h, dropout) for _ in range(num_layers)])
         self.norm = LayerNorm(d_model)
-        
+
     def forward(self, x, mask):
         y = x
 
         assert y.size(1) == mask.size(-1)
-            
+
         for layer in self.layers:
             y = layer(y, mask)
 
         return self.norm(y)
-        
+
 class Decoder(nn.Module):
     def __init__(self, num_layers, d_model, vocab_size, h, dropout):
         super(Decoder, self).__init__()
@@ -166,7 +166,7 @@ class Decoder(nn.Module):
         y = x
 
         assert y.size(1) == tgt_mask.size(-1)
-        
+
         for layer in self.layers:
             y = layer(y, memory, src_mask, tgt_mask)
 
@@ -176,7 +176,7 @@ class Decoder(nn.Module):
 
         new_states = []
 
-                                            
+
         for i, layer in enumerate(self.layers):
             y, new_sub_states = layer.incremental_forward(
                 y, memory, src_mask, tgt_mask,
@@ -184,12 +184,12 @@ class Decoder(nn.Module):
             )
 
             new_states.append(new_sub_states)
-        
+
         new_states.append(torch.cat((prev_states[-1], y), 1) if prev_states else y)
         y = self.norm(new_states[-1])[:, -1:]
-        
+
         return self.generator(y, temperature), new_states
-    
+
 class Generator(nn.Module):
     def __init__(self, d_model, vocab_size):
         super(Generator, self).__init__()
@@ -214,14 +214,14 @@ class EmbeddingLayer(nn.Module):
             y = torch.matmul(x, self.token_embed.weight) + self.pos_embed(pos)
 
         return y
-    
+
 class EncoderLayer(nn.Module):
     def __init__(self, d_model, h, dropout):
         super(EncoderLayer, self).__init__()
         self.self_attn = MultiHeadAttention(d_model, h, dropout)
         self.pw_ffn = PositionwiseFeedForward(d_model, dropout)
         self.sublayer =  nn.ModuleList([SublayerConnection(d_model, dropout) for _ in range(2)])
-        
+
     def forward(self, x, mask):
         x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))
         return self.sublayer[1](x, self.pw_ffn)
@@ -254,8 +254,8 @@ class DecoderLayer(nn.Module):
         x = torch.cat((prev_states[2], x), 1) if prev_states else x
         new_states.append(x)
         x = self.sublayer[2].incremental_forward(x, lambda x: self.pw_ffn(x[:, -1:]))
-        return x, new_states  
-   
+        return x, new_states
+
 class MultiHeadAttention(nn.Module):
     def __init__(self, d_model, h, dropout):
         super(MultiHeadAttention, self).__init__()
@@ -265,7 +265,7 @@ class MultiHeadAttention(nn.Module):
         self.head_projs = nn.ModuleList([nn.Linear(d_model, d_model) for _ in range(3)])
         self.fc = nn.Linear(d_model, d_model)
         self.dropout = nn.Dropout(dropout)
-        
+
     def forward(self, query, key, value, mask):
         batch_size = query.size(0)
 
@@ -286,7 +286,7 @@ def scaled_attention(query, key, value, mask):
     attn_feature = attn_weight.matmul(value)
 
     return attn_feature, attn_weight
-    
+
 class PositionwiseFeedForward(nn.Module):
     def __init__(self, d_model, dropout):
         super(PositionwiseFeedForward, self).__init__()
@@ -296,7 +296,7 @@ class PositionwiseFeedForward(nn.Module):
             nn.Dropout(dropout),
             Linear(4 * d_model, d_model),
         )
-        
+
     def forward(self, x):
         return self.mlp(x)
 
@@ -305,7 +305,7 @@ class SublayerConnection(nn.Module):
         super(SublayerConnection, self).__init__()
         self.layer_norm = LayerNorm(d_model)
         self.dropout = nn.Dropout(dropout)
-        
+
     def forward(self, x, sublayer):
         y = sublayer(self.layer_norm(x))
         return x + self.dropout(y)
@@ -313,7 +313,7 @@ class SublayerConnection(nn.Module):
     def incremental_forward(self, x, sublayer):
         y = sublayer(self.layer_norm(x))
         return x[:, -1:] + self.dropout(y)
-    
+
 def Linear(in_features, out_features, bias=True, uniform=True):
     m = nn.Linear(in_features, out_features, bias)
     if uniform:

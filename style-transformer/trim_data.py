@@ -1,7 +1,10 @@
 # This model requires sentences to be a maximum of X = 80 tokens long
 # Trim each line to be 80 tokens long
+# Actually trim a little shorter for safety buffer
 
-MAX_LEN = 80
+MAX_LEN = 16
+MAX_LEN -= 1 # Safety buffer (e.g. for end token?)
+
 DATASET = "novels"
 
 sets = ["dev", "test", "train"]
@@ -10,6 +13,9 @@ classes = ["neg", "pos"]
 def main():
     for x in sets:
         for cls in classes:
+
+            lines_trimmed = 0
+
             in_filename = "data/{}/{}.{}".format(DATASET, x, cls)
             out_filename = "data/{}_short/{}.{}".format(DATASET, x, cls)
 
@@ -19,12 +25,22 @@ def main():
             fout = open(out_filename, "w", encoding="utf-8")
 
             for ln in fin:
-                pcs = ln.split(" ")
-                out_ln = pcs[:MAX_LEN].join(" ") + "\n"
+                pcs = ln.split()
+
+                # drop long examples entirely...
+                if len(pcs) > MAX_LEN:
+                    lines_trimmed += 1
+                    continue
+
+                out_ln = " ".join(pcs[:MAX_LEN]) + "\n"
                 fout.write(out_ln)
+
+
 
             fin.close()
             fout.close()
+
+            print(lines_trimmed, "lines trimmed.")
 
 
 if __name__ == '__main__':
