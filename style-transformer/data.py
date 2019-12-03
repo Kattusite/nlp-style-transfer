@@ -1,3 +1,4 @@
+import csv
 import time
 import numpy as np
 import torchtext
@@ -25,7 +26,10 @@ def load_dataset(config, train_pos='train.pos', train_neg='train.neg',
     dataset_fn = lambda name: data.TabularDataset(
         path=root + name,
         format='tsv',
-        fields=[('text', TEXT)]
+        fields=[('text', TEXT)],
+        csv_reader_params={
+            "quoting": csv.QUOTE_NONE,
+        }
     )
 
     train_pos_set, train_neg_set = map(dataset_fn, [train_pos, train_neg])

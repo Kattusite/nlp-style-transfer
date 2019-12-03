@@ -1,7 +1,7 @@
 # Tokenize the input sentences to split out punctuation markings
 # Also remove named entities
 
-import sys
+import sys, re
 import nltk.data
 
 REPLACE = True # Whether or not we should replace named entities with token or just delete
@@ -29,6 +29,9 @@ def main():
     nltk.download('averaged_perceptron_tagger')
     nltk.download('maxent_ne_chunker')
     nltk.download('words')
+
+    single_quote_re = "(``|“|”|'')"
+    double_quote_re = "[‘’`]"
 
     filenames = sys.argv[1:]
     for filename in filenames:
@@ -59,16 +62,18 @@ def main():
 
             nonentities.append(x)
 
+        # TODO: replace weird quotes with " or '
+
+        # ne = ne.replace('``', '"')
+        # ne = ne.replace('“', '"')
+        # ne = ne.replace('”', '"')
+        # ne = ne.replace("''", '"')
+        # ne = ne.replace("’", "'")
+        # ne = ne.replace("‘", "'")
+        ne = re.sub(double_quote_re, '"', ne)
+        ne = re.sub(single_quote_re, "'", ne)
+
         for ne in nonentities:
-
-            # TODO: replace weird quotes with " or '
-            ne = ne.replace('``', '"')
-            ne = ne.replace('“', '"')
-            ne = ne.replace('”', '"')
-            ne = ne.replace("''", '"')
-            ne = ne.replace("’", "'")
-            ne = ne.replace("‘", "'")
-
             out.write(ne + "\n")
             # out.write("\n-------------\n")
 
