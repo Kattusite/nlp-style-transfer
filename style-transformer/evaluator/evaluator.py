@@ -32,7 +32,7 @@ class Evaluator(object):
         yelp_ref0_file = pkg_resources.resource_stream(resource_package, yelp_ref0_path)
         yelp_ref1_file = pkg_resources.resource_stream(resource_package, yelp_ref1_path)
 
-        novess_acc_ft_file = pkg_resources.resource_stream(resource_package, novels_acc_ft_path)
+        novels_acc_ft_file = pkg_resources.resource_stream(resource_package, novels_acc_ft_path)
 
 
         self.yelp_ref = []

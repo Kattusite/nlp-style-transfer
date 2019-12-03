@@ -1,0 +1,6 @@
+[auto_eval] acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: -1.0000 bleu_neg: -1.0000 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+******************** neg sample ********************
+[gold] “ If I wish it !
+[raw ] “ If I wish it !
+[rev ] “ If I wish it !

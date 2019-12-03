@@ -1,0 +1,22 @@
+iter   25:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 92.6741 bleu_neg: 90.9685 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   50:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 94.1942 bleu_neg: 93.1366 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   75:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 94.7160 bleu_neg: 94.0529 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  100:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.1086 bleu_neg: 94.7508 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  125:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.3472 bleu_neg: 94.6202 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  150:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.3892 bleu_neg: 94.3635 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  175:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.1138 bleu_neg: 92.6193 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  200:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.5022 bleu_neg: 93.0469 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  225:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 90.2218 bleu_neg: 92.4359 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  250:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.8318 bleu_neg: 95.0889 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  275:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 95.7779 bleu_neg: 96.4406 ppl_pos: -1.0000 ppl_neg: -1.0000
+

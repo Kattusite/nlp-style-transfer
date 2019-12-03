@@ -380,18 +380,22 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
 
     acc_neg = evaluator.novels_acc_0(rev_output[0])
     acc_pos = evaluator.novels_acc_1(rev_output[1])
-    bleu_neg = -1   # evaluator.yelp_ref_bleu_0(rev_output[0])
-    bleu_pos = -1   # evaluator.yelp_ref_bleu_1(rev_output[1])
+    bleu_neg = evaluator.self_bleu_b(gold_text[0], rev_output[0])   # evaluator.yelp_ref_bleu_0(rev_output[0])
+    bleu_pos = evaluator.self_bleu_b(gold_text[1], rev_output[1])  # evaluator.yelp_ref_bleu_1(rev_output[1])
+
+    # bleu_raw = evaluator.self_bleu_b(gold_text[0], )
+    # bleu_rev = evaluator.self_bleu_b()
+
     ppl_neg = -1    # evaluator.yelp_ppl(rev_output[0])
     ppl_pos = -1    # evaluator.yelp_ppl(rev_output[1])
 
     for k in range(5):
         idx = np.random.randint(len(rev_output[0]))
-        print('*' * 20, 'neg sample', '*' * 20)
+        print('*' * 20, 'neg sample (verne)', '*' * 20)
         print('[gold]', gold_text[0][idx])
         print('[raw ]', raw_output[0][idx])
         print('[rev ]', rev_output[0][idx])
-        print('[ref ]', "...")
+        # print('[ref ]', "...")
         # print('[ref ]', ref_text[0][idx])
 
     print('*' * 20, '********', '*' * 20)
@@ -399,11 +403,11 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
 
     for k in range(5):
         idx = np.random.randint(len(rev_output[1]))
-        print('*' * 20, 'pos sample', '*' * 20)
+        print('*' * 20, 'pos sample (dickens)', '*' * 20)
         print('[gold]', gold_text[1][idx])
         print('[raw ]', raw_output[1][idx])
         print('[rev ]', rev_output[1][idx])
-        print('[ref ]', "...")
+        # print('[ref ]', "...")
         # print('[ref ]', ref_text[1][idx])
 
     print('*' * 20, '********', '*' * 20)
@@ -432,20 +436,22 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         ), file=fw)
 
         for idx in range(len(rev_output[0])):
-            print('*' * 20, 'neg sample', '*' * 20, file=fw)
+            print('*' * 20, 'neg sample (verne)', '*' * 20, file=fw)
             print('[gold]', gold_text[0][idx], file=fw)
             print('[raw ]', raw_output[0][idx], file=fw)
             print('[rev ]', rev_output[0][idx], file=fw)
-            print('[ref ]', ref_text[0][idx], file=fw)
+            # print('[ref ]', "...")
+            # print('[ref ]', ref_text[0][idx], file=fw)
 
         print('*' * 20, '********', '*' * 20, file=fw)
 
         for idx in range(len(rev_output[1])):
-            print('*' * 20, 'pos sample', '*' * 20, file=fw)
+            print('*' * 20, 'pos sample (dickens)', '*' * 20, file=fw)
             print('[gold]', gold_text[1][idx], file=fw)
             print('[raw ]', raw_output[1][idx], file=fw)
             print('[rev ]', rev_output[1][idx], file=fw)
-            print('[ref ]', ref_text[1][idx], file=fw)
+            # print('[ref ]', "...")
+            # print('[ref ]', ref_text[1][idx], file=fw)
 
         print('*' * 20, '********', '*' * 20, file=fw)
 

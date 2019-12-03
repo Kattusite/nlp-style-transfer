@@ -59,6 +59,13 @@ def main():
 
             nonentities.append(x)
 
+        # TODO: replace weird quotes with " or '
+        ne = ne.replace('``', '"')
+        ne = ne.replace('“', '"')
+        ne = ne.replace('”', '"')
+        ne = ne.replace("''", '"')
+        ne = ne.replace("’", "'")
+        ne = ne.replace("‘", "'")
 
         for ne in nonentities:
             out.write(ne + "\n")
