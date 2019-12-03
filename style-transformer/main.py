@@ -14,7 +14,7 @@ class Config():
     discriminator_method = 'Multi' # 'Multi' or 'Cond'
     load_pretrained_embed = False
     min_freq = 3
-    max_length = 16 # 16 defult. 100 too large -- out of memory on my laptop # 70/80 ok?
+    max_length = 32 # 16 defult. 100 too large -- out of memory on my laptop # 70/80 ok?
     embed_size = 256
     d_model = 256
     h = 4

@@ -6,7 +6,7 @@ N_LONG = 20000 # number of examples for shorter dataset of larger examples
 MAX_LEN_LONG = 60 # max for the shorter dataset of longer examples
 MAX_LEN_LONG -= 1 # safety buffer
 
-MAX_LEN = 16
+MAX_LEN = 32
 MAX_LEN -= 1 # Safety buffer (e.g. for end token?)
 
 DATASET = "novels"
