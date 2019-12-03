@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # This file runs all of the data processing steps,
 # from the raw data to the labeled datasets
@@ -9,7 +9,7 @@
 echo "Author 1: $1 \t Author 0: $2"
 
 if [[ -z $1 ]] || [[ -z $2 ]]; then
-  echo "Usage: ./make.sh <pos author> <neg author>"
+  echo "Usage: ./make.sh <pos author(dickens)> <neg author(verne)>"
   exit
 fi
 
