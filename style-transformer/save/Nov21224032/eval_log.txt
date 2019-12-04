@@ -1,2 +1,0 @@
-iter   25:  acc_pos: 1.0000 acc_neg: 0.0000 bleu_pos: 90.9434 bleu_neg: 89.2959 ppl_pos: -1.0000 ppl_neg: -1.0000
-
