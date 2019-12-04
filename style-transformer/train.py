@@ -373,7 +373,6 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
 
     gold_text, raw_output, rev_output = zip(inference(neg_iter, 0), inference(pos_iter, 1))
 
-    print("building evaluator")
     evaluator = Evaluator()
     # ref_text = evaluator.yelp_ref # reference translations don't really exist for novels, do they?
 
@@ -393,8 +392,8 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         idx = np.random.randint(len(rev_output[0]))
         print('*' * 20, 'neg sample (verne)', '*' * 20)
         print('[gold]', gold_text[0][idx])
-        print('[raw ]', raw_output[0][idx])
-        print('[rev ]', rev_output[0][idx])
+        print('[self ]', raw_output[0][idx])
+        print('[xfer]', rev_output[0][idx])
         # print('[ref ]', "...")
         # print('[ref ]', ref_text[0][idx])
 
@@ -405,8 +404,8 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         idx = np.random.randint(len(rev_output[1]))
         print('*' * 20, 'pos sample (dickens)', '*' * 20)
         print('[gold]', gold_text[1][idx])
-        print('[raw ]', raw_output[1][idx])
-        print('[rev ]', rev_output[1][idx])
+        print('[self]', raw_output[1][idx])
+        print('[xfer]', rev_output[1][idx])
         # print('[ref ]', "...")
         # print('[ref ]', ref_text[1][idx])
 
@@ -438,8 +437,8 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         for idx in range(len(rev_output[0])):
             print('*' * 20, 'neg sample (verne)', '*' * 20, file=fw)
             print('[gold]', gold_text[0][idx], file=fw)
-            print('[raw ]', raw_output[0][idx], file=fw)
-            print('[rev ]', rev_output[0][idx], file=fw)
+            print('[self]', raw_output[0][idx], file=fw)
+            print('[xfer]', rev_output[0][idx], file=fw)
             # print('[ref ]', "...")
             # print('[ref ]', ref_text[0][idx], file=fw)
 
@@ -448,8 +447,8 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         for idx in range(len(rev_output[1])):
             print('*' * 20, 'pos sample (dickens)', '*' * 20, file=fw)
             print('[gold]', gold_text[1][idx], file=fw)
-            print('[raw ]', raw_output[1][idx], file=fw)
-            print('[rev ]', rev_output[1][idx], file=fw)
+            print('[self]', raw_output[1][idx], file=fw)
+            print('[xfer]', rev_output[1][idx], file=fw)
             # print('[ref ]', "...")
             # print('[ref ]', ref_text[1][idx], file=fw)
 
