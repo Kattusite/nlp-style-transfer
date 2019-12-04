@@ -75,7 +75,7 @@ class Evaluator(object):
             return False
         result = self.classifier_novels.predict([text_transfered])
         label = result[0][0][0]
-        print(type(label), label, label=='__label__0')
+        # print(type(label), label, label=='__label__0')
         # print(result[0][0], type(result[0][0]), result[0][0] == '__label__0')
         style_transfered = label == '__label__1'
         return (style_transfered != style_origin)
