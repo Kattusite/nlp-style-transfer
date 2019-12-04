@@ -14,6 +14,7 @@ data = "../data/merged/{}_ft.txt"
 # Current best:
 # more epochs, more lr, trigrams: ~91.5% accs
 model = fasttext.train_supervised(data.format("train"), lr=1.0, epoch=25, wordNgrams=3)
+print(model.labels)
 
 # more epochs, more lr, bigrams, hierarchichal softmax: ~ 90.7% accs (but faster)
 # using 2grams acc ~90.5/90.6

@@ -70,8 +70,11 @@ class Evaluator(object):
         text_transfered = ' '.join(word_tokenize(text_transfered.lower().strip()))
         if text_transfered == '':
             return False
-        label = self.classifier_novels.predict([text_transfered])
-        style_transfered = label[0][0] == '__label__1'
+        result = self.classifier_novels.predict([text_transfered])
+        label = result[0][0][0]
+        print(type(label), label, label=='__label__0')
+        # print(result[0][0], type(result[0][0]), result[0][0] == '__label__0')
+        style_transfered = label == '__label__1'
         return (style_transfered != style_origin)
 
     def novels_acc_b(self, texts, styles_origin):
