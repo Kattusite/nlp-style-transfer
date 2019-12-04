@@ -386,8 +386,8 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
     # bleu_raw = evaluator.self_bleu_b(gold_text[0], )
     # bleu_rev = evaluator.self_bleu_b()
 
-    ppl_neg = -1    # evaluator.yelp_ppl(rev_output[0])
-    ppl_pos = -1    # evaluator.yelp_ppl(rev_output[1])
+    ppl_neg = evaluator.yelp_ppl(rev_output[0])
+    ppl_pos = evaluator.yelp_ppl(rev_output[1])
 
     for k in range(5):
         idx = np.random.randint(len(rev_output[0]))
