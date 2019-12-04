@@ -26,6 +26,7 @@ class Evaluator(object):
 
         novels_acc_tf_path = 'dickens_verne_sepcnn_model.h5' # using tensorflow
         novels_acc_ft_path = 'dickens_verne_fasttext.bin' # using fasttext
+        novels_ppl_path = 'dickens_verne_kenlm.arpa' # using kenlm
 
         # yelp_acc_file = pkg_resources.resource_stream(resource_package, yelp_acc_path)
         # yelp_ppl_file = pkg_resources.resource_stream(resource_package, yelp_ppl_path)
@@ -33,6 +34,7 @@ class Evaluator(object):
         yelp_ref1_file = pkg_resources.resource_stream(resource_package, yelp_ref1_path)
 
         novels_acc_ft_file = pkg_resources.resource_stream(resource_package, novels_acc_ft_path)
+        novels_ppl_file = pkg_resources.resource_stream(resource_package, novels_ppl_path)
 
 
         self.yelp_ref = []
@@ -46,6 +48,7 @@ class Evaluator(object):
         self.classifier_novels = fasttext.load_model(novels_acc_ft_file.name)
         # self.classifier_yelp = fasttext.load_model(yelp_acc_file.name)
         # self.yelp_ppl_model = kenlm.Model(yelp_ppl_file.name)
+        self.novels_ppl_model = kenlm.Model(novels_ppl_file.name)
 
     def nltk_bleu(self, texts_origin, text_transfered):
         texts_origin = [word_tokenize(text_origin.lower().strip()) for text_origin in texts_origin]
@@ -120,7 +123,7 @@ class Evaluator(object):
 
 
     def novels_ppl(self, texts_transfered):
-        return 1 # ppl needs a trained LM
+        # return 1 # ppl needs a trained LM
         texts_transfered = [' '.join(word_tokenize(itm.lower().strip())) for itm in texts_transfered]
         sum = 0
         words = []
