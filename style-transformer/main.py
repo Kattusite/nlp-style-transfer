@@ -4,6 +4,7 @@ from data import load_dataset
 from models import StyleTransformer, Discriminator
 from train import train, auto_eval
 
+DEBUG = False
 
 class Config():
     data_path = './data/novels_short/'
@@ -43,6 +44,11 @@ class Config():
     inp_unk_drop_fac = 0
     inp_rand_drop_fac = 0
     inp_drop_prob = 0
+
+    if DEBUG:
+        F_pretrain_iter = 10
+        log_steps = 1
+        eval_steps = 1
 
 
 def main():
