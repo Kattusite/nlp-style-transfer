@@ -27,6 +27,7 @@ class Evaluator(object):
         novels_acc_tf_path = 'dickens_verne_sepcnn_model.h5' # using tensorflow
         novels_acc_ft_path = 'dickens_verne_fasttext.bin' # using fasttext
         novels_ppl_path = 'dickens_verne_kenlm.arpa' # using kenlm
+        novels_ppl_bin_path = 'dickens_verne_kenlm.bin' # using kenlm
 
         # yelp_acc_file = pkg_resources.resource_stream(resource_package, yelp_acc_path)
         # yelp_ppl_file = pkg_resources.resource_stream(resource_package, yelp_ppl_path)
@@ -35,7 +36,7 @@ class Evaluator(object):
 
         novels_acc_ft_file = pkg_resources.resource_stream(resource_package, novels_acc_ft_path)
         novels_ppl_file = pkg_resources.resource_stream(resource_package, novels_ppl_path)
-
+        novels_ppl_bin_file = pkg_resources.resource_stream(resource_package, novels_ppl_bin_path)
 
         self.yelp_ref = []
         with open(yelp_ref0_file.name, 'r') as fin:
@@ -48,7 +49,8 @@ class Evaluator(object):
         self.classifier_novels = fasttext.load_model(novels_acc_ft_file.name)
         # self.classifier_yelp = fasttext.load_model(yelp_acc_file.name)
         # self.yelp_ppl_model = kenlm.Model(yelp_ppl_file.name)
-        self.novels_ppl_model = kenlm.Model(novels_ppl_file.name)
+        # self.novels_ppl_model = kenlm.Model(novels_ppl_file.name)
+        self.novels_ppl_model = kenlm.Model(novels_ppl_bin_file.name)
 
     def nltk_bleu(self, texts_origin, text_transfered):
         texts_origin = [word_tokenize(text_origin.lower().strip()) for text_origin in texts_origin]

@@ -2,3 +2,4 @@
 *.pyc
 style-transformer/evaluator/dickens_verne_fasttext.bin
 style-transformer/evaluator/dickens_verne_kenlm.arpa
+style-transformer/evaluator/dickens_verne_kenlm.bin

@@ -4,7 +4,7 @@ from data import load_dataset
 from models import StyleTransformer, Discriminator
 from train import train, auto_eval
 
-DEBUG = False
+DEBUG = False # If true, evaluate as soon as possible for easier debugging
 
 class Config():
     data_path = './data/novels_short/'
