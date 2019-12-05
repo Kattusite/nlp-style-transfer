@@ -88,3 +88,5 @@ iter 1100:  acc_pos: 0.5469 acc_neg: 0.3643 bleu_pos: 71.9454 bleu_neg: 78.4875 
 
 iter 1125:  acc_pos: 0.5417 acc_neg: 0.4911 bleu_pos: 63.4938 bleu_neg: 65.2502 ppl_pos: 277.7430 ppl_neg: 236.3223
 
+iter 1150:  acc_pos: 0.6200 acc_neg: 0.3873 bleu_pos: 64.8465 bleu_neg: 74.5475 ppl_pos: 304.2700 ppl_neg: 140.7730
+

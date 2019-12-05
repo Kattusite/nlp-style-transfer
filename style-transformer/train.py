@@ -392,7 +392,7 @@ def auto_eval(config, vocab, model_F, test_iters, global_step, temperature):
         idx = np.random.randint(len(rev_output[0]))
         print('*' * 20, 'neg sample (verne)', '*' * 20)
         print('[gold]', gold_text[0][idx])
-        print('[self ]', raw_output[0][idx])
+        print('[self]', raw_output[0][idx])
         print('[xfer]', rev_output[0][idx])
         # print('[ref ]', "...")
         # print('[ref ]', ref_text[0][idx])
