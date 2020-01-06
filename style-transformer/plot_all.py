@@ -5,6 +5,7 @@ import re
 iters = [i for i in range(25, 276, 25)]
 
 trial = "Dec04022032"
+# trial = "Jan06103408"
 filename = "save/{}/eval_log.txt".format(trial)
 
 float_re = "{}:\s+([0-9]+\.[0-9]+)"
@@ -16,8 +17,16 @@ data_names = [
     "bleu_pos",
     "bleu_neg",
     "ppl_pos",
-    "ppl_neg"
+    "ppl_neg",
+    "mtr_pos",
+    "mtr_neg"
 ]
+
+# remove mtr_pos, mtr_neg if working on a dataset that doesnt include meteor
+no_meteor = trial == "Dec04022032"
+if no_meteor:
+    data_names = data_names[:len(data_names)-2]
+
 
 def pprint(ls):
     for x in ls:
@@ -55,7 +64,7 @@ with open(filename, "r") as f:
 # acc_ax.set_title("Style Accuracy over Time")
 # acc_ax.plot(data["iter"], data["acc_pos"], label="Dickens to Verne")
 # acc_ax.plot(data["iter"], data["acc_neg"], label="Verne to Dickens")
-# acc_ax.set_xlabel("iteration")
+# acc_ax.set_xlabel("epoch")
 # acc_ax.set_ylabel("accuracy")
 
 
@@ -68,23 +77,32 @@ plt.figure()
 plt.title("Style Transfer Accuracy over Time")
 plt.plot(data["iter"], data["acc_pos"], label="Dickens to Verne", color=color1)
 plt.plot(data["iter"], data["acc_neg"], label="Verne to Dickens", color=color2)
-plt.xlabel("iteration")
+plt.xlabel("epoch")
 plt.ylabel("accuracy")
 plt.legend()
 
 plt.figure()
-plt.title("Semantic Preservation over Time")
+plt.title("Semantic Preservation (BLEU) over Time")
 plt.plot(data["iter"], data["bleu_pos"], label="Dickens to Verne", color=color1)
 plt.plot(data["iter"], data["bleu_neg"], label="Verne to Dickens", color=color2)
-plt.xlabel("iteration")
+plt.xlabel("epoch")
 plt.ylabel("BLEU")
 plt.legend()
+
+if not no_meteor:
+    plt.figure()
+    plt.title("Semantic Preservation (METEOR) over Time")
+    plt.plot(data["iter"], data["mtr_pos"], label="Dickens to Verne", color=color1)
+    plt.plot(data["iter"], data["mtr_neg"], label="Verne to Dickens", color=color2)
+    plt.xlabel("epoch")
+    plt.ylabel("METEOR")
+    plt.legend()
 
 plt.figure()
 plt.title("Perplexity over Time")
 plt.plot(data["iter"], data["ppl_pos"], label="Dickens to Verne", color=color1)
 plt.plot(data["iter"], data["ppl_neg"], label="Verne to Dickens", color=color2)
-plt.xlabel("iteration")
+plt.xlabel("epoch")
 plt.ylabel("perplexity")
 plt.legend()
 
@@ -98,7 +116,7 @@ plt.legend()
 # plt.plot(iters, d_to_v, label="Dickens to Verne")
 # plt.plot(iters, v_to_d, label="Verne to Dickens")
 # plt.legend()
-# plt.xlabel("training iteration")
+# plt.xlabel("training epoch")
 # plt.ylabel("BLEU")
 # plt.title("BLEU score over time")
 #
