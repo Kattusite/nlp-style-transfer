@@ -1,5 +1,6 @@
 from nltk.tokenize import word_tokenize
 from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.meteor_score import meteor_score
 
 # StackOverflow says torchtext lib has a bug, so my local copy is slightly modded
 # torchtext\utils.py:130 is buggy (at least on my Win10 environment)
@@ -65,6 +66,22 @@ class Evaluator(object):
             sum += self.nltk_bleu([x], y)
         return sum / n
 
+
+
+    def nltk_meteor(self, texts_origin, text_transfered):
+        
+        #texts_origin = [word_tokenize(text_origin.lower().strip()) for text_origin in texts_origin]
+        #text_transfered = word_tokenize(text_transfered.lower().strip())
+        return meteor_score(texts_origin, text_transfered) * 100
+
+    def self_meteor_b(self, texts_origin, texts_transfered):
+        assert len(texts_origin) == len(texts_transfered), 'Size of inputs does not match!'
+        sum = 0
+        n = len(texts_origin)
+        for x, y in zip(texts_origin, texts_transfered):
+            sum += self.nltk_meteor([x], y)
+        return sum / n
+    
 ###############################################################################
 ##
 ##                      Novels evaluation
@@ -122,7 +139,6 @@ class Evaluator(object):
         for x, y in zip(self.novels_ref[0] + self.novels_ref[1], texts_neg2pos + texts_pos2neg):
             sum += self.nltk_bleu([x], y)
         return sum / n
-
 
     def novels_ppl(self, texts_transfered):
         # return 1 # ppl needs a trained LM
