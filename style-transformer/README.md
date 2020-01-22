@@ -1,6 +1,6 @@
 # Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation
 
-This folder contains the code for the paper [《Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation》](https://arxiv.org/abs/1905.05621)
+This folder contains the code for the paper [《Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation》](https://arxiv.org/abs/1905.05621), which has been adapted somewhat for my independent work project.
 
 
 

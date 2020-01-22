@@ -1,0 +1,76 @@
+iter   25:  acc_pos: 0.2303 acc_neg: 0.2720 bleu_pos: 53.7351 bleu_neg: 43.7471 ppl_pos: 377.9318 ppl_neg: 473.8911 mtr_pos: 77.6095 mtr_neg: 70.6805
+
+iter   50:  acc_pos: 0.2214 acc_neg: 0.2789 bleu_pos: 56.7435 bleu_neg: 46.8588 ppl_pos: 366.2721 ppl_neg: 451.3052 mtr_pos: 79.2529 mtr_neg: 72.7079
+
+iter   75:  acc_pos: 0.2190 acc_neg: 0.2716 bleu_pos: 58.9327 bleu_neg: 49.1184 ppl_pos: 360.3243 ppl_neg: 443.7108 mtr_pos: 80.3970 mtr_neg: 74.1967
+
+iter  100:  acc_pos: 0.2167 acc_neg: 0.2711 bleu_pos: 60.8582 bleu_neg: 51.1114 ppl_pos: 357.2629 ppl_neg: 437.7726 mtr_pos: 81.5289 mtr_neg: 75.4787
+
+iter  125:  acc_pos: 0.2125 acc_neg: 0.2576 bleu_pos: 63.0256 bleu_neg: 53.8322 ppl_pos: 355.0881 ppl_neg: 430.8320 mtr_pos: 82.8266 mtr_neg: 77.0898
+
+iter  150:  acc_pos: 0.2108 acc_neg: 0.2533 bleu_pos: 64.9177 bleu_neg: 55.6065 ppl_pos: 348.7919 ppl_neg: 424.5181 mtr_pos: 83.9286 mtr_neg: 78.1457
+
+iter  175:  acc_pos: 0.2109 acc_neg: 0.2366 bleu_pos: 67.0245 bleu_neg: 58.3540 ppl_pos: 346.5521 ppl_neg: 418.9855 mtr_pos: 84.9776 mtr_neg: 79.8966
+
+iter  200:  acc_pos: 0.2097 acc_neg: 0.2264 bleu_pos: 69.5321 bleu_neg: 61.3984 ppl_pos: 341.0439 ppl_neg: 410.1947 mtr_pos: 86.2097 mtr_neg: 81.4381
+
+iter  225:  acc_pos: 0.2069 acc_neg: 0.2129 bleu_pos: 71.0544 bleu_neg: 63.5052 ppl_pos: 342.4454 ppl_neg: 407.8459 mtr_pos: 87.0579 mtr_neg: 82.7243
+
+iter  250:  acc_pos: 0.2100 acc_neg: 0.2085 bleu_pos: 73.8294 bleu_neg: 66.5496 ppl_pos: 340.9163 ppl_neg: 403.9779 mtr_pos: 88.4874 mtr_neg: 84.4034
+
+iter  275:  acc_pos: 0.2100 acc_neg: 0.2008 bleu_pos: 76.5436 bleu_neg: 70.0968 ppl_pos: 340.0841 ppl_neg: 399.4906 mtr_pos: 89.7490 mtr_neg: 86.1817
+
+iter  300:  acc_pos: 0.2104 acc_neg: 0.1844 bleu_pos: 79.1292 bleu_neg: 73.3756 ppl_pos: 342.6424 ppl_neg: 395.8085 mtr_pos: 90.9335 mtr_neg: 87.7660
+
+iter  325:  acc_pos: 0.2092 acc_neg: 0.1861 bleu_pos: 80.7962 bleu_neg: 75.1747 ppl_pos: 343.9957 ppl_neg: 395.4506 mtr_pos: 91.6621 mtr_neg: 88.5690
+
+iter  350:  acc_pos: 0.2704 acc_neg: 0.1819 bleu_pos: 78.1419 bleu_neg: 75.9788 ppl_pos: 407.2517 ppl_neg: 400.4948 mtr_pos: 90.3887 mtr_neg: 88.8708
+
+iter  375:  acc_pos: 0.2142 acc_neg: 0.1837 bleu_pos: 84.0170 bleu_neg: 78.7899 ppl_pos: 348.6093 ppl_neg: 394.4647 mtr_pos: 93.0542 mtr_neg: 90.0282
+
+iter  400:  acc_pos: 0.2199 acc_neg: 0.1684 bleu_pos: 86.1488 bleu_neg: 81.8653 ppl_pos: 351.8124 ppl_neg: 392.8206 mtr_pos: 94.0800 mtr_neg: 91.4175
+
+iter  425:  acc_pos: 0.2158 acc_neg: 0.1678 bleu_pos: 87.9005 bleu_neg: 83.7097 ppl_pos: 351.3459 ppl_neg: 389.8929 mtr_pos: 94.9256 mtr_neg: 92.3941
+
+iter  450:  acc_pos: 0.2193 acc_neg: 0.1659 bleu_pos: 88.8894 bleu_neg: 85.2724 ppl_pos: 353.9756 ppl_neg: 389.0823 mtr_pos: 95.4117 mtr_neg: 93.3105
+
+iter  475:  acc_pos: 0.2605 acc_neg: 0.1675 bleu_pos: 87.8861 bleu_neg: 86.7149 ppl_pos: 409.5653 ppl_neg: 391.1177 mtr_pos: 93.8486 mtr_neg: 93.8568
+
+iter  500:  acc_pos: 0.2708 acc_neg: 0.1950 bleu_pos: 87.3806 bleu_neg: 85.7767 ppl_pos: 378.4133 ppl_neg: 386.6553 mtr_pos: 93.6572 mtr_neg: 92.9670
+
+iter  525:  acc_pos: 0.2919 acc_neg: 0.2206 bleu_pos: 86.5025 bleu_neg: 84.6518 ppl_pos: 433.6497 ppl_neg: 367.4691 mtr_pos: 93.1748 mtr_neg: 91.2043
+
+iter  550:  acc_pos: 0.2744 acc_neg: 0.2269 bleu_pos: 88.1185 bleu_neg: 84.3969 ppl_pos: 450.3037 ppl_neg: 390.4392 mtr_pos: 94.0212 mtr_neg: 90.9761
+
+iter  575:  acc_pos: 0.2831 acc_neg: 0.2245 bleu_pos: 87.3430 bleu_neg: 85.6766 ppl_pos: 451.9210 ppl_neg: 357.1107 mtr_pos: 93.2862 mtr_neg: 91.9742
+
+iter  600:  acc_pos: 0.4077 acc_neg: 0.2331 bleu_pos: 81.9403 bleu_neg: 86.3299 ppl_pos: 554.3903 ppl_neg: 357.1703 mtr_pos: 91.0392 mtr_neg: 92.3343
+
+iter  625:  acc_pos: 0.4230 acc_neg: 0.2629 bleu_pos: 81.7310 bleu_neg: 82.0921 ppl_pos: 550.8860 ppl_neg: 381.9733 mtr_pos: 91.1826 mtr_neg: 90.1224
+
+iter  650:  acc_pos: 0.4182 acc_neg: 0.2503 bleu_pos: 81.8104 bleu_neg: 88.2111 ppl_pos: 621.3143 ppl_neg: 324.8776 mtr_pos: 91.0869 mtr_neg: 93.8871
+
+iter  675:  acc_pos: 0.4002 acc_neg: 0.2357 bleu_pos: 84.4819 bleu_neg: 87.9969 ppl_pos: 573.5252 ppl_neg: 338.9955 mtr_pos: 92.6498 mtr_neg: 93.4311
+
+iter  700:  acc_pos: 0.4246 acc_neg: 0.2334 bleu_pos: 82.2412 bleu_neg: 89.3359 ppl_pos: 570.7431 ppl_neg: 346.2422 mtr_pos: 91.1305 mtr_neg: 94.0635
+
+iter  725:  acc_pos: 0.4000 acc_neg: 0.2394 bleu_pos: 84.0065 bleu_neg: 88.5000 ppl_pos: 571.7874 ppl_neg: 340.7947 mtr_pos: 92.1576 mtr_neg: 93.5986
+
+iter  750:  acc_pos: 0.3727 acc_neg: 0.2349 bleu_pos: 82.7448 bleu_neg: 88.0997 ppl_pos: 546.7507 ppl_neg: 364.6393 mtr_pos: 91.6818 mtr_neg: 93.4743
+
+iter  775:  acc_pos: 0.3828 acc_neg: 0.2452 bleu_pos: 83.5621 bleu_neg: 88.4527 ppl_pos: 563.9235 ppl_neg: 350.2882 mtr_pos: 91.7791 mtr_neg: 93.5422
+
+iter  800:  acc_pos: 0.3867 acc_neg: 0.2236 bleu_pos: 84.7500 bleu_neg: 90.2995 ppl_pos: 540.1063 ppl_neg: 348.7561 mtr_pos: 92.4228 mtr_neg: 94.7399
+
+iter  825:  acc_pos: 0.4132 acc_neg: 0.2450 bleu_pos: 83.1117 bleu_neg: 87.8469 ppl_pos: 580.5462 ppl_neg: 360.0806 mtr_pos: 91.4688 mtr_neg: 93.5725
+
+iter  850:  acc_pos: 0.4170 acc_neg: 0.2461 bleu_pos: 80.8131 bleu_neg: 88.1771 ppl_pos: 580.0646 ppl_neg: 341.0523 mtr_pos: 89.4789 mtr_neg: 93.5839
+
+iter  875:  acc_pos: 0.4186 acc_neg: 0.2437 bleu_pos: 80.3698 bleu_neg: 88.5757 ppl_pos: 605.8344 ppl_neg: 350.0676 mtr_pos: 89.9785 mtr_neg: 93.4748
+
+iter  900:  acc_pos: 0.4232 acc_neg: 0.2506 bleu_pos: 79.3210 bleu_neg: 87.4924 ppl_pos: 619.5892 ppl_neg: 356.4314 mtr_pos: 88.8239 mtr_neg: 92.9285
+
+iter  925:  acc_pos: 0.3582 acc_neg: 0.2618 bleu_pos: 86.7757 bleu_neg: 85.8619 ppl_pos: 530.5049 ppl_neg: 372.5419 mtr_pos: 93.7015 mtr_neg: 91.8758
+
+iter  950:  acc_pos: 0.3888 acc_neg: 0.2447 bleu_pos: 84.1441 bleu_neg: 88.8578 ppl_pos: 552.4102 ppl_neg: 341.4244 mtr_pos: 92.5707 mtr_neg: 94.0955
+
